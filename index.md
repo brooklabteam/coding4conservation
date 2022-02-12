@@ -2,6 +2,8 @@
 layout: home
 title: "Coding 4 Conservation"
 ---
+&nbsp;
+
 <div style="background: #FFFFE0; padding: 2em 0;">
 <p>🚧 Please note this site is still a <strong>work in progress</strong>. Check back soon for 'final' updates!</p>
 </div>
