@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: "Coding 4 Conservation"
 ---
 <p>🚧 Please note this site is still a <strong>work in progress</strong>. Check back soon for 'final' updates!</p>
