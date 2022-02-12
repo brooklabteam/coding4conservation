@@ -1,28 +1,50 @@
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width"> <!-- content can also have ", initial-scale=1.0" -->
 
-{% if page.title == "Coding 4 Conservation" %}
-  <title>Coding 4 Conservation</title>
+  <title>{{ site.title }}</title>
+
+  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}"> 
+
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }} RSS feed" href="{{ "/feed.xml" | relative_url }}">
+
+  <link rel="author" href="https://plus.google.com/112364401751366956186/posts"/>
+
+  <meta property="og:site_name" content="{{ site.title }}" >
+  <meta property="og:locale" content="en_US">
+{% if page.title %}
+  <meta property="og:title" content="{{ page.title }}">
+  <meta property="og:type" content="article">
 {% else %}
-  <title>{{ page.title | escape }} - Coding 4 Conservation</title>
+  <meta property="og:title" content="{{ site.title }}" >
+  <meta property="og:type" content="website">
 {% endif %}
+{% if page.url %}
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}" >
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+{% else %}
+  <meta property="og:url" content="{{ site.url }}" >
+  <link rel="canonical" href="{{ site.url }}">
+{% endif %}
+{% if page.description %}
+  <meta name="description" content="{{ page.description }}" >
+  <meta property="og:description" content="{{ page.description }}" >  
+{% else %}
+  <meta name="description" content="{{ site.description }}" >
+  <meta property="og:description" content="{{ site.description }}" >
+{% endif %}
+{% if page.ogimage %}
+  <meta property="og:image" content="{{ site.url }}/assets/og/{{ page.ogimage }}" >
+{% else %}
+  <meta property="og:image" content="/assets/logo.png" >
+{% endif %}
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@{{ site.twitter }}" />
+  <meta name="twitter:creator" content="@{{ site.twitter }}" />
 
-  <link rel="stylesheet" type="text/css" href="/css/style.css" />
-
-  <link rel="apple-touch-icon" sizes="57x57" href="/assets/favicon/apple-icon-57x57.png">
-  <link rel="apple-touch-icon" sizes="60x60" href="/assets/favicon/apple-icon-60x60.png">
-  <link rel="apple-touch-icon" sizes="72x72" href="/assets/favicon/apple-icon-72x72.png">
-  <link rel="apple-touch-icon" sizes="76x76" href="/assets/favicon/apple-icon-76x76.png">
-  <link rel="apple-touch-icon" sizes="114x114" href="/assets/favicon/apple-icon-114x114.png">
-  <link rel="apple-touch-icon" sizes="120x120" href="/assets/favicon/apple-icon-120x120.png">
-  <link rel="apple-touch-icon" sizes="144x144" href="/assets/favicon/apple-icon-144x144.png">
-  <link rel="apple-touch-icon" sizes="152x152" href="/assets/favicon/apple-icon-152x152.png">
-  <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-icon-180x180.png">
-  <link rel="icon" type="image/png" sizes="192x192"  href="/assets/favicon/android-icon-192x192.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="96x96" href="/assets/favicon/favicon-96x96.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
-
-  <link rel="manifest" href="/assets/favicon/manifest.json">
+  <link rel="apple-touch-icon" sizes="180x180" href="/img/favicon_io/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon_io/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon_io/favicon-16x16.png">
+  <link rel="manifest" href="/img/favicon_io/site.webmanifest">
 </head>
