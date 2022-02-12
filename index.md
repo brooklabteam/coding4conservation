@@ -17,16 +17,19 @@ title: "Coding 4 Conservation"
 
 <p>Applications are available for submission at Coding4Conservation.org and must be completed and uploaded by midnight (US Central Time) on Friday, April 1, 2020 if you wish to be considered.</p>
 
-<p>All application materials must be submitted in English. The application consists of:
+<p>All application materials must be submitted in English. The application consists of:</p>
+
 <ul>
 	<li>Form linked here: Coding4Conservation.org</li>
 	<li>Uploaded .pdf file with:
-	<ul>
-		<li>Curriculum Vitae (Limit: 4 pages).</li>
-		<li>Research Abstract. <em>Please describe your ongoing research project and the data you wish to analyze in conjunction with this program in detail. (Limit: 250 words).</em></li>
-		<li>Statement of Interest and Intent. <em>Please describe why you are interested in this program and what you will gain from the experience. (Limit: 500 words).</em></li>
-	</ul>
+		<ul>
+			<li>Curriculum Vitae (Limit: 4 pages).</li>
+			<li>Research Abstract. <em>Please describe your ongoing research project and the data you wish to analyze in conjunction with this program in detail. (Limit: 250 words).</em></li>
+			<li>Statement of Interest and Intent. <em>Please describe why you are interested in this program and what you will gain from the experience. (Limit: 500 words).</em></li>
+		</ul>
+	</li>
 </ul>
+
 <p>Please do not hesitate to contact Cara Brook (cbrook@uchicago.edu) or Onja Razafindratsima (onja@berkeley.edu) with any questions or concerns. We hope to see your application in April!</p>
 
 <p>–The ‘Coding for Conservation’ steering committee<br />
