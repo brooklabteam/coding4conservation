@@ -1,0 +1,49 @@
+title: Brook Lab
+description: Brook Lab
+# permalink: ':pagetitle/'
+# timezone: America/Los_Angeles
+
+# navbar:
+#   title: ""
+#   left:
+# 	- text: "Home"
+# 	  href: /
+# 	- text: "Research"
+# 	  href: /research_interests
+# 	- text: "Publications"
+# 	  href: /publications
+# 	- text: "Cara Brook"
+# 	  href: /carabrook
+# 	- text: "Team"
+# 	  href: /team
+# 	- text: "Lab Values and Expectations"
+# 	  href: /labvalues
+# 	- text: "Join the Lab!"
+# 	  href: /jointhelab
+# 	- text: "News"
+# 	  href: https://carabrook.github.io/blog
+# 	- text: "E2M2" 
+# 	  href: https://carabrook.github.io/E2M2
+
+# google_analytics:
+
+# plugins: [jekyll-redirect-from]
+ 
+# assets:
+#   sources:
+# 	- _assets/css
+# 	- _assets/images
+# 	- _assets/img(old)
+
+
+#paginate: 8
+#paginate_path: "/page/:num"
+
+# pagination:
+#  enabled: true
+#   per_page: 10
+#   sort_field: 'date'
+#   sort_reverse: true
+
+# include:
+#   - _redirects

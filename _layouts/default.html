@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+{% include head.html %}
+
+<body>
+  <div id="wrapper">
+
+  {% include header.html %}
+
+  {% if page.title == "Coding 4 Conservation" %}
+    <h1>Welcome to Coding 4 Conservation</h1>
+  {% else %}
+    <h1>{{ page.title | escape }}</h1>
+  {% endif %}
+
+  {{ content }}
+
+  {% include footer.html %}
+
+  </div>
+</body>
+
+</html>

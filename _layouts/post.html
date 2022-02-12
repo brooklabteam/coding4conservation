@@ -1,0 +1,17 @@
+---
+layout: default
+pagination:
+  enabled: true
+---
+
+<article id="post-idgoeshere">
+  <header class="entry-header">
+	<h1 class="entry-title">{{ page.title | escape }}</h1>
+	<div class="entry-meta">
+	  <span class="entry-date">{{ page.date | date: "%-d %B %Y" }}</span>
+	</div>
+  </header>
+  <div class="entry-content">
+	{{ content }}
+  </div>
+</article>
