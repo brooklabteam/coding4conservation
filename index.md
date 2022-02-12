@@ -2,13 +2,11 @@
 layout: home
 title: "Coding 4 Conservation"
 ---
-&nbsp;
-
-<div style="background: #FFFFE0; padding: 2em 0;">
-<p>🚧 Please note this site is still a <strong>work in progress</strong>. Check back soon for 'final' updates!</p>
-</div>
-
 <p><strong>A year-long mentorship program in R-based data analysis and communication for Malagasy students with ongoing research projects in ecology, conservation, biodiversity science, and related fields.</strong></p>
+
+<div style="background: #FFFFE0; padding: 1em 0;">
+<p>🚧 Please note this site is still a <strong>work in progress</strong>. Check back soon for 'final' updates! - 12 Feb 2022</p>
+</div>
 
 <p>May 2022 - April 2023</p>
 
