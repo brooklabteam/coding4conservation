@@ -4,13 +4,14 @@ title: "Coding 4 Conservation"
 ---
 <p><em>A year-long mentorship program in R-based data analysis and communication for Malagasy students with ongoing research projects in ecology, conservation, biodiversity science, and related fields which runs from May 2022 to April 2023.</em></p>
 
-<div style="background: #ffcccb; padding: 0.5em;">
-<p><center>🛑 Deadline: Friday, April 1, 2022 at 11:59 pm US Central Time</center></p>
+<div style="background: #ffcccb; border-radius: 0.5em; padding: 0.5em;">
+<p><center>🛑 Application deadline:<br />
+Friday, April 1, 2022 at 11:59 pm US Central Time</center></p>
 </div>
 
 <img src="assets/img/IMGP0119.JPG" style="float: right; max-width: 12em; margin: 1em 0 1em 1em;" />
  
-<p>We are pleased to announce our National Geographic-funded, year-long mentorship program <em>Coding for Conservation</em>, to be held from May 2022-April 2023. This program is targeted towards Malagasy students in their third cycle or higher in conservation biology, zoology, animal biodiversity, entomology, botany, and related fields, though <strong>all are welcome to apply</strong>. In part with this program, Malagasy students will attend a mix of remote (online) and in-person lectures and tutorials on an <em>every-other-week frequency</em> while also receiving <em>one-on-one instruction</em> in data analysis and scientific writing oriented towards the publication of their personal research projects. Funding will be provided for students to procure data to attend online workshops, and opportunities will be available for students based in Antananarivo to view lectures in a group setting.</p>
+<p>We are pleased to announce our National Geographic-funded, year-long mentorship program <em>Coding for Conservation</em>. This program is targeted towards Malagasy students in their third cycle or higher in conservation biology, zoology, animal biodiversity, entomology, botany, and related fields, though <strong>all are welcome to apply</strong>. In part with this program, Malagasy students will attend a mix of remote (online) and in-person lectures and tutorials on an <em>every-other-week frequency</em> while also receiving <em>one-on-one instruction</em> in data analysis and scientific writing oriented towards the publication of their personal research projects. Funding will be provided for students to procure data to attend online workshops, and opportunities will be available for students based in Antananarivo to view lectures in a group setting.</p>
 
 <img src="assets/img/IMGP1272.JPG" style="float: left; max-width: 10em; margin: 1em 1em 1em 0;" />
 
