@@ -4,12 +4,8 @@ title: "Coding 4 Conservation"
 ---
 <p><em>A year-long mentorship program in R-based data analysis and communication for Malagasy students with ongoing research projects in ecology, conservation, biodiversity science, and related fields which runs from May 2022 to April 2023.</em>></p>
 
-<div style="background: #FFFFE0; padding: 1em;">
-<p>🚧 Please note this site is still a <strong>work in progress</strong>. Check back soon for 'final' updates! - 12 Feb 2022</p>
-</div>
-
-<div style="background: #FF7F7F; padding: 1em;">
-<p>Deadline: Friday, April 1, 2022 at 11:59 pm US Central Time</p>
+<div style="background: #ffcccb; padding: 1em;">
+<p><center>🛑 Deadline: Friday, April 1, 2022 at 11:59 pm US Central Time</center></p>
 </div>
  
 <p>We are pleased to announce our National Geographic-funded year-long mentorship program, Coding for Conservation, to be held from May 2022-April 2023. This program is targeted towards Malagasy students in their third cycle or higher in conservation biology, zoology, animal biodiversity, entomology, botany, and related fields, though <strong>all are welcome to apply</strong>>. In part with this program, Malagasy students will attend a mix of remote (online) and in-person lectures and tutorials on an <em>every-other-week frequency</em> while also receiving <em>one-on-one instruction</em> in data analysis and scientific writing oriented towards the publication of their personal research projects. Funding will be provided for students to procure data to attend online workshops, and opportunities will be available for students based in Antananarivo to view lectures in a group setting.</p>
