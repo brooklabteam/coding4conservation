@@ -8,17 +8,17 @@ title: "Coding 4 Conservation"
 <p><center>🛑 Deadline: Friday, April 1, 2022 at 11:59 pm US Central Time</center></p>
 </div>
 
-<img src="assets/img/IMGP0119.JPG" style="float: right; max-width: 12em; margin: 1em 0 1em 1em;" />
+<img src="assets/img/IMGP0119.JPG" style="float: right; max-width: 12em; margin: 0 0 1em 1em;" />
  
 <p>We are pleased to announce our National Geographic-funded year-long mentorship program, Coding for Conservation, to be held from May 2022-April 2023. This program is targeted towards Malagasy students in their third cycle or higher in conservation biology, zoology, animal biodiversity, entomology, botany, and related fields, though <strong>all are welcome to apply</strong>. In part with this program, Malagasy students will attend a mix of remote (online) and in-person lectures and tutorials on an <em>every-other-week frequency</em> while also receiving <em>one-on-one instruction</em> in data analysis and scientific writing oriented towards the publication of their personal research projects. Funding will be provided for students to procure data to attend online workshops, and opportunities will be available for students based in Antananarivo to view lectures in a group setting.</p>
 
-<img src="assets/img/IMGP1272.JPG" style="float: left; max-width: 10em; margin: 0 1em 1em 1em;" />
+<img src="assets/img/IMGP1272.JPG" style="float: left; max-width: 10em; margin: 0 1em 1em 0;" />
 
 <p>Students will receive general instruction in the analysis and modeling of ecological data in a series of interactive lectures and computer-based tutorials using the open-source software R and learn to fine-tune research questions and develop clear analytical frameworks. <!-- A preliminary outline of our planned instructional series is available here: link??? //--> Attendance and participation in all lessons and tutorials will be mandatory.</p>
 
 <p>Additionally, students will be assigned a one-on-one instructor mentor to guide them personally in analysis and write-up of their own data over the course of the year, with the goal of submitting the work for eventual publication. We are specifically interested in selecting students with ongoing research projects and existing datasets who seek additional support in data analysis and writing a manuscript for publication. </p>
 
-<img src="assets/img/IMG_1317.JPG" style="float: right; width: 60%; max-width: 10em; margin: 0 1em 1em 1em;" />
+<img src="assets/img/IMG_1317.JPG" style="float: right; width: 60%; max-width: 10em; margin: 0 0 1em 1em;" />
 
 <p>The course will be taught primarily in English, though a subset of the faculty will be available to offer some translation into French and/or Malagasy. A working knowledge of the English language is required for admission; however, we will do our best to make the material accessible to students who find English challenging. If you have any questions about the appropriateness of your background or training for our course, either in language or in science, please do not hesitate to contact us straight away (email below).</p>
 
