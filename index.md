@@ -18,7 +18,7 @@ title: "Coding 4 Conservation"
 
 <p>Additionally, students will be assigned a one-on-one instructor mentor to guide them personally in analysis and write-up of their own data over the course of the year, with the goal of submitting the work for eventual publication. We are specifically interested in selecting students with ongoing research projects and existing datasets who seek additional support in data analysis and writing a manuscript for publication. </p>
 
-<img src="assets/img/IMG_1317.JPG" style="float: right; max-width: 20em; margin: 1em 0 1em 1em;" />
+<img src="assets/img/IMG_1317.JPG" style="float: right; width: 60%; max-width: 10em; margin: 1em 0 1em 1em;" />
 
 <p>The course will be taught primarily in English, though a subset of the faculty will be available to offer some translation into French and/or Malagasy. A working knowledge of the English language is required for admission; however, we will do our best to make the material accessible to students who find English challenging. If you have any questions about the appropriateness of your background or training for our course, either in language or in science, please do not hesitate to contact us straight away (email below).</p>
 
