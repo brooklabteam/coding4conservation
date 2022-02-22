@@ -4,7 +4,7 @@ title: "Coding 4 Conservation"
 ---
 <p><em>A year-long mentorship program in R-based data analysis and communication for Malagasy students with ongoing research projects in ecology, conservation, biodiversity science, and related fields which runs from May 2022 to April 2023.</em></p>
 
-<div style="background: #ffcccb; padding: 0.5em 0;">
+<div style="background: #ffcccb; padding: 0.5em;">
 <p><center>🛑 Deadline: Friday, April 1, 2022 at 11:59 pm US Central Time</center></p>
 </div>
 
