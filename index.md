@@ -18,6 +18,8 @@ title: "Coding 4 Conservation"
 
 <p>Applications are available for submission at Coding4Conservation.org and must be completed and uploaded by 11:59 pm US Central Time on <strong>Friday, April 1, 2020</strong> if you wish to be considered.</p>
 
+<hr />
+
 <p>All application materials must be submitted in English. The application consists of:</p>
 
 <ul>
