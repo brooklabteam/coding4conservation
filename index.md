@@ -20,6 +20,8 @@ title: "Coding 4 Conservation"
 
 <p>The course will be taught primarily in English, though a subset of the faculty will be available to offer some translation into French and/or Malagasy. A working knowledge of the English language is required for admission; however, we will do our best to make the material accessible to students who find English challenging. If you have any questions about the appropriateness of your background or training for our course, either in language or in science, please do not hesitate to contact us straight away (email below).</p>
 
+<img src="assets/img/IMG_1317.JPG" style="margin: 0;" />
+
 <p>Applications are available for submission at below and must be completed and uploaded by 11:59 pm US Central Time on <strong>Friday, April 1, 2020</strong> if you wish to be considered.</p>
 
 <hr />
