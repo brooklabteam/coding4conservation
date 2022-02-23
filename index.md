@@ -30,7 +30,7 @@ Friday, April 1, 2022 at 11:59 pm US Central Time</center></p>
 <p>All application materials must be submitted in English. The application consists of:</p>
 
 <ul>
-	<li>Form linked here: [https://airtable.com/shrQ463kbsRkYO0AL](https://airtable.com/shrQ463kbsRkYO0AL)</li>
+	<li>Form linked here: <a href="https://airtable.com/shrQ463kbsRkYO0AL">Airtable form</a></li>
 	<li>Uploaded .pdf file with:
 		<ul>
 			<li>Curriculum Vitae (Limit: 4 pages).</li>
