@@ -45,8 +45,8 @@ Friday, April 1, 2022 at 11:59 pm US Central Time</center></p>
 <p>–The ‘Coding for Conservation’ steering committee<br />
 <em>Cara Brook, Onja Razafindratsima, Emily Ruhs, Theresa Laverty, Angelo Andrianiaina, Fifi Ravelomanantsoa, Santino Andry, Dominic Daniels, Kendall Fitzgerald, Benjamin Chait, Hafaliana Christian Ranaivoson</em></p>
 
-<img src="assets/img/partners/Berkeley_wordmark_gold.png" style="float: left; max-width: 11em; margin: 0 .5em;" />
+<img src="assets/img/partners/Berkeley_wordmark_gold.png" style="float: left; max-width: 10em; margin: 0 .5em;" />
 
-<img src="assets/img/partners/UChicago_Seal_2Color_MaroonBorder_WhiteFill_RGB.png" style="float: left; max-width: 11em; margin: 0 .5em;" />
+<img src="assets/img/partners/UChicago_Seal_2Color_MaroonBorder_WhiteFill_RGB.png" style="float: left; max-width: 10em; margin: 0 .5em;" />
 
-<img src="assets/img/partners/Logo UA HD.jpg" style="float: left; max-width: 11em; margin: 0 .5em;" />
+<img src="assets/img/partners/Logo UA HD.jpg" style="float: left; max-width: 10em; margin: 0 .5em;" />
