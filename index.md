@@ -50,3 +50,5 @@ Friday, April 1, 2022 at 11:59 pm US Central Time</center></p>
 <img src="assets/img/partners/UChicago_Seal_2Color_MaroonBorder_WhiteFill_RGB.png" style="float: left; max-width: 10em; margin: 0 .5em;" />
 
 <img src="assets/img/partners/Logo UA HD.jpg" style="float: left; max-width: 10em; margin: 0 .5em;" />
+
+<div style="clear: both;">&nbsp;</div>
