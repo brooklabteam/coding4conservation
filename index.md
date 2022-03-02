@@ -36,7 +36,7 @@ Friday, April 1, 2022 at 11:59 pm US Central Time</center></p>
 			<li>Curriculum Vitae (Limit: 4 pages).</li>
 			<li>Research Abstract. <em>Please describe your ongoing research project and the data you wish to analyze in conjunction with this program in detail. (Limit: 250 words).</em></li>
 			<li>Statement of Interest and Intent. <em>Please describe why you are interested in this program and what you will gain from the experience. (Limit: 500 words).</em></li>
-			<li><em>Please save your application as a single, collated PDF with a name that follows: “C4C_<strong>YourLastName_YourFirstName</strong>.pdf”.</em></li>
+			<li><em>Please save your application as a single, collated PDF with a name that follows: “Coding4Conservation_Application_<strong>YourLastName_YourFirstName</strong>.pdf”.</em></li>
 		</ul>
 	</li>
 </ul>
