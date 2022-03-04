@@ -47,7 +47,7 @@ Friday, April 1, 2022 at 11:59 pm US Central Time</center></p>
 <em>Cara Brook, Onja Razafindratsima, Emily Ruhs, Theresa Laverty, Angelo Andrianiaina, Fifi Ravelomanantsoa, Santino Andry, Dominic Daniels, Kendall Fitzgerald, Benjamin Chait, Hafaliana Christian Ranaivoson</em></p>
 
 <div style="vertical-align: middle;">
-	<img src="assets/img/partners/Berkeley_wordmark_gold.png" style="width: 10em; max-width: 30%; vertical-align: middle;" />
+	<img src="assets/img/partners/ucbseal_139_540.png" style="width: 10em; max-width: 30%; vertical-align: middle;" />
 	
 	<img src="assets/img/partners/UChicago_Seal_2Color_MaroonBorder_WhiteFill_RGB.png" style="width: 10em; max-width: 32%; vertical-align: middle;" />
 	
