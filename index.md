@@ -6,7 +6,7 @@ title: "Coding 4 Conservation"
 
 <div style="background: #ffcccb; border-radius: 0.5em; padding: 0.5em;">
 <p><center>🛑 Application deadline:<br />
-Friday, April 1, 2022 at 11:59 pm US Central Time</center></p>
+Friday, April 1, 2022 at 11:59 pm East Africa Time (GMT+3)</center></p>
 </div>
 
 <img src="assets/img/IMGP0119.JPG" style="float: right; max-width: 12em; margin: 1em 0 1em 1em;" />
