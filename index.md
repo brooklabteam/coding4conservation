@@ -25,11 +25,9 @@ Friday, April 1, 2022 at 11:59 pm East Africa Time (GMT+3)</center></p>
 
 <p>Applications are available for submission at below and must be completed and uploaded by 11:59 pm East Africa Time (GMT+3) on <strong>Friday, April 1, 2022</strong> if you wish to be considered.</p>
 
-<hr />
-
+<div class="bs-callout bs-callout-info">
 <p>All application materials must be submitted in English. The application consists of:</p>
-
-<ul>
+<ul class="small">
 	<li>Form linked here: <a href="https://airtable.com/shrQ463kbsRkYO0AL">Airtable form</a></li>
 	<li>Uploaded .pdf file with:
 		<ul>
@@ -40,6 +38,7 @@ Friday, April 1, 2022 at 11:59 pm East Africa Time (GMT+3)</center></p>
 		</ul>
 	</li>
 </ul>
+</div>
 
 <p>Please do not hesitate to contact us at <a href="mailto:questions@coding4conservation.org">questions@coding4conservation.org</a> with any questions or concerns. We hope to see your application in April!</p>
 
