@@ -45,7 +45,7 @@ Friday, April 1, 2022 at 11:59 pm East Africa Time (GMT+3)</center></p>
 <p>–The ‘Coding for Conservation’ steering committee<br />
 <em>Cara Brook, Onja Razafindratsima, Emily Ruhs, Theresa Laverty, Angelo Andrianiaina, Fifi Ravelomanantsoa, Santino Andry, Dominic Daniels, Kendall Fitzgerald, Benjamin Chait, Hafaliana Christian Ranaivoson</em></p>
 
-<div style="vertical-align: middle;">
+<div style="vertical-align: middle;"><center>
 	<img src="assets/img/partners/ucbseal_139_540.png" style="width: 10em; max-width: 30%; vertical-align: middle;" />
 	
 	<img src="assets/img/partners/UChicago_Seal_2Color_MaroonBorder_WhiteFill_RGB.png" style="width: 10em; max-width: 32%; vertical-align: middle;" />
@@ -53,4 +53,4 @@ Friday, April 1, 2022 at 11:59 pm East Africa Time (GMT+3)</center></p>
 	<img src="assets/img/partners/Logo UA HD.jpg" style="width: 10em; max-width: 32%; vertical-align: middle;" />
 	
 	<div style="clear: both;">&nbsp;</div>
-</div>
+</center></div>
