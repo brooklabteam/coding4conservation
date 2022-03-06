@@ -15,7 +15,7 @@ Friday, April 1, 2022 at 11:59 pm East Africa Time (GMT+3)</center></p>
 
 <img src="assets/img/IMGP1272.JPG" style="float: left; max-width: 10em; margin: 1em 1em 1em 0;" />
 
-<p>Students will receive general instruction in the analysis and modeling of ecological data in a series of interactive lectures and computer-based tutorials using the open-source software R and learn to fine-tune research questions and develop clear analytical frameworks. <!-- A preliminary outline of our planned instructional series is available here: link??? //--> Attendance and participation in all lessons and tutorials will be mandatory.</p>
+<p>Students will receive general instruction in the analysis and modeling of ecological data in a series of interactive lectures and computer-based tutorials using the open-source software R and learn to fine-tune research questions and develop clear analytical frameworks. Attendance and participation in all lessons and tutorials will be mandatory.</p>
 
 <p>Additionally, students will be assigned a one-on-one instructor mentor to guide them personally in analysis and write-up of their own data over the course of the year, with the goal of submitting the work for eventual publication. We are specifically interested in selecting students with ongoing research projects and existing datasets who seek additional support in data analysis and writing a manuscript for publication. </p>
 
