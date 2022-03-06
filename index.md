@@ -27,14 +27,14 @@ Friday, April 1, 2022 at 11:59 pm East Africa Time (GMT+3)</center></p>
 
 <div class="bs-callout bs-callout-info">
 <p>All application materials must be submitted in English. The application consists of:</p>
-<ul class="small">
+<ul>
 	<li>Form linked here: <a href="https://airtable.com/shrQ463kbsRkYO0AL">Airtable form</a></li>
 	<li>Uploaded .pdf file with:
 		<ul>
 			<li>Curriculum Vitae (Limit: 4 pages).</li>
 			<li>Research Abstract. <em>Please describe your ongoing research project and the data you wish to analyze in conjunction with this program in detail. (Limit: 250 words).</em></li>
 			<li>Statement of Interest and Intent. <em>Please describe why you are interested in this program and what you will gain from the experience. (Limit: 500 words).</em></li>
-			<li><em>Please save your application as a single, collated PDF with a name that follows: “Coding4Conservation_Application_<strong>YourLastName_YourFirstName</strong>.pdf”.</em></li>
+			<li style="overflow-wrap: break-word;"><em>Please save your application as a single, collated PDF with a name that follows: “Coding4Conservation_Application_<strong>YourLastName_YourFirstName</strong>.pdf”.</em></li>
 		</ul>
 	</li>
 </ul>
