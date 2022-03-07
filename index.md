@@ -4,7 +4,7 @@ title: "Coding 4 Conservation"
 ---
 <p><em>A year-long mentorship program in R-based data analysis and communication for Malagasy students with ongoing research projects in ecology, conservation, biodiversity science, and related fields which runs from May 2022 to April 2023.</em></p>
 
-<div style="background: #ffcccb; border-radius: 0.5em; padding: 0.5em;">
+<div class="bs-callout bs-callout-warning">
 <p><center>🛑 Application deadline:<br />
 Friday, April 1, 2022 at 11:59 pm East Africa Time (GMT+3)</center></p>
 </div>
@@ -15,7 +15,7 @@ Friday, April 1, 2022 at 11:59 pm East Africa Time (GMT+3)</center></p>
 
 <img src="assets/img/IMGP1272.JPG" style="float: left; max-width: 10em; margin: 1em 1em 1em 0;" />
 
-<p>Students will receive general instruction in the analysis and modeling of ecological data in a series of interactive lectures and computer-based tutorials using the open-source software R and learn to fine-tune research questions and develop clear analytical frameworks. <!-- A preliminary outline of our planned instructional series is available here: link??? //--> Attendance and participation in all lessons and tutorials will be mandatory.</p>
+<p>Students will receive general instruction in the analysis and modeling of ecological data in a series of interactive lectures and computer-based tutorials using the open-source software R and learn to fine-tune research questions and develop clear analytical frameworks. Attendance and participation in all lessons and tutorials will be mandatory.</p>
 
 <p>Additionally, students will be assigned a one-on-one instructor mentor to guide them personally in analysis and write-up of their own data over the course of the year, with the goal of submitting the work for eventual publication. We are specifically interested in selecting students with ongoing research projects and existing datasets who seek additional support in data analysis and writing a manuscript for publication. </p>
 
@@ -25,10 +25,8 @@ Friday, April 1, 2022 at 11:59 pm East Africa Time (GMT+3)</center></p>
 
 <p>Applications are available for submission at below and must be completed and uploaded by 11:59 pm East Africa Time (GMT+3) on <strong>Friday, April 1, 2022</strong> if you wish to be considered.</p>
 
-<hr />
-
+<div class="bs-callout bs-callout-info">
 <p>All application materials must be submitted in English. The application consists of:</p>
-
 <ul>
 	<li>Form linked here: <a href="https://airtable.com/shrQ463kbsRkYO0AL">Airtable form</a></li>
 	<li>Uploaded .pdf file with:
@@ -36,17 +34,18 @@ Friday, April 1, 2022 at 11:59 pm East Africa Time (GMT+3)</center></p>
 			<li>Curriculum Vitae (Limit: 4 pages).</li>
 			<li>Research Abstract. <em>Please describe your ongoing research project and the data you wish to analyze in conjunction with this program in detail. (Limit: 250 words).</em></li>
 			<li>Statement of Interest and Intent. <em>Please describe why you are interested in this program and what you will gain from the experience. (Limit: 500 words).</em></li>
-			<li><em>Please save your application as a single, collated PDF with a name that follows: “Coding4Conservation_Application_<strong>YourLastName_YourFirstName</strong>.pdf”.</em></li>
+			<li style="overflow-wrap: break-word;"><em>Please save your application as a single, collated PDF with a name that follows: “Coding4Conservation_Application_<strong>YourLastName_YourFirstName</strong>.pdf”.</em></li>
 		</ul>
 	</li>
 </ul>
+</div>
 
 <p>Please do not hesitate to contact us at <a href="mailto:questions@coding4conservation.org">questions@coding4conservation.org</a> with any questions or concerns. We hope to see your application in April!</p>
 
 <p>–The ‘Coding for Conservation’ steering committee<br />
 <em>Cara Brook, Onja Razafindratsima, Emily Ruhs, Theresa Laverty, Angelo Andrianiaina, Fifi Ravelomanantsoa, Santino Andry, Dominic Daniels, Kendall Fitzgerald, Benjamin Chait, Hafaliana Christian Ranaivoson</em></p>
 
-<div style="vertical-align: middle;">
+<div style="vertical-align: middle; text-align: center;">
 	<img src="assets/img/partners/ucbseal_139_540.png" style="width: 10em; max-width: 30%; vertical-align: middle;" />
 	
 	<img src="assets/img/partners/UChicago_Seal_2Color_MaroonBorder_WhiteFill_RGB.png" style="width: 10em; max-width: 32%; vertical-align: middle;" />
