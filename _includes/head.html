@@ -34,9 +34,11 @@
   <meta property="og:description" content="{{ site.description }}" >
 {% endif %}
 {% if page.ogimage %}
-  <meta property="og:image" content="{{ site.url }}/assets/og/{{ page.ogimage }}" >
+  <meta property="og:image" content="{{ page.ogimage }}" >
+  <meta property="twitter:image" content="{{ page.ogimage }}" >
 {% else %}
-  <meta property="og:image" content="{{ site.url }}/assets/img/IMG_1317.JPG" >
+  <meta property="og:image" content="/assets/img/IMG_1317.JPG" >
+  <meta property="twitter:image" content="/assets/img/IMG_1317.JPG" >
 {% endif %}
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="@{{ site.twitter }}" />
