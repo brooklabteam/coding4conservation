@@ -40,7 +40,7 @@ Friday, April 1, 2022 at 11:59 pm East Africa Time (GMT+3)</center></p>
 </ul>
 </div>
 
-<p>Please do not hesitate to contact us at <a href="mailto:questions@coding4conservation.org">questions@coding4conservation.org</a> with any questions or concerns. We hope to see your application in April!</p>
+<p>Please do not hesitate to contact cbrook@uchicago.edu and onja@berkeley.edu with any questions or concerns. We hope to see your application in April!</p>
 
 <p>–The ‘Coding for Conservation’ steering committee<br />
 <em>Cara Brook, Onja Razafindratsima, Emily Ruhs, Theresa Laverty, Angelo Andrianiaina, Fifi Ravelomanantsoa, Santino Andry, Dominic Daniels, Kendall Fitzgerald, Benjamin Chait, Hafaliana Christian Ranaivoson</em></p>
