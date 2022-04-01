@@ -5,8 +5,8 @@ title: "Coding 4 Conservation"
 <p><em>A year-long mentorship program in R-based data analysis and communication for Malagasy students with ongoing research projects in ecology, conservation, biodiversity science, and related fields which runs from May 2022 to April 2023.</em></p>
 
 <div class="bs-callout bs-callout-warning">
-<p><center>🛑 Application deadline:<br />
-Friday, April 1, 2022 at 11:59 pm East Africa Time (GMT+3)</center></p>
+<p><center>🛑 Application deadline has passed! <br />
+Please stay tuned for our replies!</center></p>
 </div>
 
 <img src="assets/img/IMGP0119.JPG" style="float: right; max-width: 12em; margin: 1em 0 1em 1em;" />
@@ -28,7 +28,7 @@ Friday, April 1, 2022 at 11:59 pm East Africa Time (GMT+3)</center></p>
 <div class="bs-callout bs-callout-info">
 <p>All application materials must be submitted in English. The application consists of:</p>
 <ul>
-	<li>Form linked here: <a href="https://airtable.com/shrQ463kbsRkYO0AL">Airtable form</a></li>
+	<li>Form linked here: deadline passed!</li>
 	<li>Uploaded .pdf file with:
 		<ul>
 			<li>Curriculum Vitae (Limit: 4 pages).</li>
