@@ -3,6 +3,9 @@ layout: page
 title: Student profiles
 permalink: /student-profiles
 ---
+
+--
+
 #### Onimalala Annick RAVELOSON
 
 Onimalala is currently a laboratory technician and PhD student vector-borne diseases in the Medical Entomology Unit at Institut Pasteur de Madagascar. Her project is titled “The role of the human flea Pulex irritans and implication of insecticide resistance in plague transmission in Madagascar.” She is studying the plague vectorial capacity and insecticide resistance in the human flea (Pulex irristans). This work will allow health personnel to develop a more effective vector control strategy given the possibility that other flea species, apart from rat fleas (X. cheopis), may play a role in the epidemiology of plague in Madagascar.
