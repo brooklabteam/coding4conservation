@@ -105,6 +105,7 @@ Hanitriniaina holds a Bachelor’s in Organisms and Ecosystem Biology from the U
 Solohery is a PhD Student in Animal Biology at the University of Antananarivo. His project will examine acoustic sampling and long-term monitoring of bird populations in Mariarano in order to estimate the avifauna density and demography of the area. This will be the first demography study of forest birds in the Mariarano dry forest.
 
 Solohery earned his master’s degree in Biology, Ecology and Animal Conservation from University of Antananarivo. His Master’s thesis focuses on the breeding biology of Foudia omissa and Foudia madagascariensis at Ranomafana National Park. He has also served as a  freelance birding tour guide for Madagascar Expedition Travel Agency.
+
 ---
 
 ####  Tanjoniaina Hery Nirina Patrick RABARIJAONINA
