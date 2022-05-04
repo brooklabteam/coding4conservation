@@ -7,7 +7,7 @@ Here are some profiles about the students in the 2022 cohort, and their projects
 
 ---
 
-####  Onimalala Annick RAVELOSON
+#### Onimalala Annick RAVELOSON
 
 Onimalala is currently a laboratory technician and PhD student vector-borne diseases in the Medical Entomology Unit at Institut Pasteur de Madagascar. Her project is titled “The role of the human flea Pulex irritans and implication of insecticide resistance in plague transmission in Madagascar.” She is studying the plague vectorial capacity and insecticide resistance in the human flea (Pulex irristans). This work will allow health personnel to develop a more effective vector control strategy given the possibility that other flea species, apart from rat fleas (X. cheopis), may play a role in the epidemiology of plague in Madagascar.
 
@@ -15,23 +15,23 @@ Onimalala holds a Master’s in Biochemistry, Biodiversity and Health from the U
 
 ---
 
-####  Fanohinjanaharinirina RASOAMALALA
+#### Fanohinjanaharinirina RASOAMALALA
 
 Is a current PhD student in the Plague Unit of Institut Pasteur de Madagascar. Her project is titled “Implication of small mammal fleas in the epidemiology of plague in Ankazobe.” She will be analyzing the role of fleas in the dynamics and transmission of plague (Yersinia pestis) from the Ankazobe district. This study will highlight the fluctuation of the flea population in an endemic focus and propose a better control and surveillance strategy in Madagascar.
 
-Fanohinjanaharinirina received her Master’s degree in Biochemistry, Biodiversity and Health from the University of Antananarivo during which time she studied  the molecular detection of Yersinia pestis and Rickettsia sp. in mammalian ectoparasites. Fanohinjanaharinirina has earned two B.S. degrees: one in biochemistry and molecular biology from the University of Antananarivo and another in biomedical technics from ACEEM University.
+Fanohinjanaharinirina received her Master’s degree in Biochemistry, Biodiversity and Health from the University of Antananarivo during which time she studied the molecular detection of Yersinia pestis and Rickettsia sp. in mammalian ectoparasites. Fanohinjanaharinirina has earned two B.S. degrees: one in biochemistry and molecular biology from the University of Antananarivo and another in biomedical technics from ACEEM University.
 
 ---
 
-####  Mahandry Andrianarimisa
+#### Mahandry Andrianarimisa
 
-Mahandry is a PhD student in Conservation Biology at the University of Antananarivo. His project will focus on host-parasite specificity of frog-biting midges in the Corethrellidae family  and the impact of light and noise pollution inside natural habitats on that parasitism system in Madagascar. This will be the first detailed study on the Corethrellidae family (biting midges) in Madagascar. It would also serve as a guide to protected area managers on the acceptable level of sounds and light pollution in ecotourism spots.
+Mahandry is a PhD student in Conservation Biology at the University of Antananarivo. His project will focus on host-parasite specificity of frog-biting midges in the Corethrellidae family and the impact of light and noise pollution inside natural habitats on that parasitism system in Madagascar. This will be the first detailed study on the Corethrellidae family (biting midges) in Madagascar. It would also serve as a guide to protected area managers on the acceptable level of sounds and light pollution in ecotourism spots.
 
 Mahandry holds a Master’s degree in Conservation Biology from University of Antananarivo, during which he developed techniques for sampling these frog-biting midges. He also holds a Bachelor’s degree in organismal and ecosystems biology from the University of Antananarivo. Mahandry enjoys cultural exchanges, travel and discovery, singing and playing guitar, wildlife documentaries, comedies and action movies.
 
 ---
 
-####  Rojo Nandrianina Ravelojaona
+#### Rojo Nandrianina Ravelojaona
 
 Rojo is a PhD candidate in the Department of Zoology and Biodiversity of Animals at the University of Antananarivo. Rojo will be studying land use change and lemur health in Ambohidray. This study will help guide the conservation strategy used in this newly protected area.
 
@@ -39,7 +39,7 @@ Rojo earned his Master’s in Zoology and Animal Biology studying bats in Mandro
 
 ---
 
-####  Zo Samuel Ella Fenosoa
+#### Zo Samuel Ella Fenosoa
 
 Fenosoa is a PhD Student in biological and environmental science at the University of Antananarivo. Her project focuses on mistletoe (Bakerella spp.) fruit removal by frugivores and the germination of mistletoe seeds in Ranomafana National Park. This work will help elucidate the mutualistic interactions between mistletoe and seed-dispersing frugivores.
 
@@ -47,7 +47,7 @@ She received her Master’s and Bachelor’s degrees in Biological Sciences from
 
 ---
 
-####  Ginot Kava
+#### Ginot Kava
 
 Ginot is a Master’s student in Animal Conservation Biology at the University of Antananarivo. His project will focus on lemur density and ecological preference of 3 lemur species in Ambohidray. His data include the DBH perches of lemurs, perch heights, plant species richness, canopy openness and more based on line-transect sampling. 
 
@@ -60,7 +60,7 @@ Miary earned her Master’s degree in Animal Biology, Ecology and Conservation f
 
 ---
 
-####  Tonisoa Tabihamalala Ranaivoandriamanantena
+#### Tonisoa Tabihamalala Ranaivoandriamanantena
 
 Tonisoa is a PhD student in Life Sciences and the Environment at the University of Antananarivo. Tonsioa’s project focuses on the reintroduction of two of Madagascar’s most threatened baobab species: Adansonia perrieri and Adansonia suarezensis. This study aims to evaluate baobab trait variations related to fruits, seeds and seedlings in order to aid future species improvement, restoration and conservation. 
 
@@ -68,7 +68,7 @@ Tonisoa holds a Master’s in Plant Biology from the University of Antananarivo 
 
 ---
 
-####  Nirintsoa RAHARINOMENA
+#### Nirintsoa RAHARINOMENA
 
 Nirintsoa is a Master’s student in Diagnosis, Ecological Monitoring and Design of Terrestrial Ecosystems in the Department of Plant Biology and Ecology at the University of Antananarivo. Her project concerns the impact of megafauna loss on seed dispersal and seedling establishment of Malagasy baobab trees. This work intends to advise conservation and restoration work to consider the seed dispersal process to the benefit of both animal seed-dispersers and plant species such as the iconic Malagasy baobab tree. 
 
@@ -76,7 +76,7 @@ Nirintsoa is also an intern with the ARO-Baobab Project (PEER USAID) and a membe
 
 ---
 
-####  Miora Mikoja Rambinintsoa
+#### Miora Mikoja Rambinintsoa
 
 Miora is a research assistant with ESSA at the University of Antananarivo. Her project focuses on biodiversity conservation and climate change in the Bezà Mahafaly Special Reserve, in Southwestern Madagascar. This study will conclude with a proposal for conservation strategies in the face of climate variability to ensure the preservation of the unique biodiversity heritage of the Bezà Mahafaly Special Reserve.
 
@@ -84,7 +84,7 @@ Miora earned her Master's degree in Forestry and Environmental sciences and Bach
 
 ---
 
-####  Faranky Ravelomandrato
+#### Faranky Ravelomandrato
 
 Faranky is a Ph.D. Candidate in Biology, Ecology and Animal Conservation at the University of Antananarivo. His project will focus on mother-infant relationships of the Aye-aye (Daubentonia madagascariensis) in the classified forest of Kianjavato in order to understand the bonds and all social aspects of the mother-infant social unit. 
 
@@ -92,7 +92,7 @@ Faranky holds a Master’s degree in Animal Conservation Biology from the Univer
 
 ---
 
-####  Hanitriniaina RAHARINIRINA
+#### Hanitriniaina RAHARINIRINA
 
 Hanitriniaina is a Master’s student in the Department of Zoology and Animal Biodiversity at the University of Antananarivo. Her study will evaluate wooly lemur (Avahi laniger) distribution, density, and habitat preference and edge response The purposes of this study are to help establish conservation management and present an outline for species ecological monitoring. 
 
@@ -100,15 +100,15 @@ Hanitriniaina holds a Bachelor’s in Organisms and Ecosystem Biology from the U
 
 ---
 
-####  Andrianarivelosoa Solohery Rasamison
+#### Andrianarivelosoa Solohery Rasamison
 
 Solohery is a PhD Student in Animal Biology at the University of Antananarivo. His project will examine acoustic sampling and long-term monitoring of bird populations in Mariarano in order to estimate the avifauna density and demography of the area. This will be the first demography study of forest birds in the Mariarano dry forest.
 
-Solohery earned his master’s degree in Biology, Ecology and Animal Conservation from University of Antananarivo. His Master’s thesis focuses on the breeding biology of Foudia omissa and Foudia madagascariensis at Ranomafana National Park. He has also served as a  freelance birding tour guide for Madagascar Expedition Travel Agency.
+Solohery earned his master’s degree in Biology, Ecology and Animal Conservation from University of Antananarivo. His Master’s thesis focuses on the breeding biology of Foudia omissa and Foudia madagascariensis at Ranomafana National Park. He has also served as a freelance birding tour guide for Madagascar Expedition Travel Agency.
 
 ---
 
-####  Tanjoniaina Hery Nirina Patrick RABARIJAONINA
+#### Tanjoniaina Hery Nirina Patrick RABARIJAONINA
 
 Tanjona is a Master’s student in Zoology and Animal Biodiversity at the University of Antananarivo. His project will explore the potential role of rodents in the secondary dispersal of an orphaned baobab species in Madagascar’s tropical dry forest. This study will help guide the conservation efforts and habitat restoration for baobabs with much needed information about animal seed dispersal.
 
@@ -116,15 +116,16 @@ Tanjona earned his Bachelor’s degree in Life and Earth Sciences from the Unive
 
 ---
 
-####  Rindra Harilanto Nantenaina
+#### Rindra Harilanto Nantenaina
 
 Rindra is a PhD student in Plant Biology and Ecology at the University of Antananarivo. Her project will document the importance of plant galls in the diet of the Black-and-white ruffed lemur
 (Varecia variegata), characterize the role of galls in attracting lemur frugivores, and determine the influence of galls on the eventual seed dispersal of the infested trees. This project will advance scientific knowledge on the ecology of galls as well as lemur seed dispersal ecology.
 
 Rindra also holds a Master’s degree in Diagnostics, Ecological Monitoring and Ecosystem Management as well as a Bachelor’s in Plant Biology from University of Antananarivo. She has also served as a mentor at E2M2, an Ecological and Epidemiological Modeling course taught in Ranomafana, Madagascar.
+
 ---
 
-####  Tsiry Hasina RANDRIAMBOLAMANANTSOA
+#### Tsiry Hasina RANDRIAMBOLAMANANTSOA
 
 Tsiry is a PhD candidate in the Virology Unit at Institut Pasteur of Madagascar. His project will investigate Respiratory Syncytial Virus (RSV) dynamics in Madagascar. RSV is the leading cause of acute respiratory infections (ARI) in children ≤5 years old in Madagascar and this study hopes to understand the factors that determine the repetitive circulation dynamic, source of introduction, and pattern of spread of the virus across the country. 
 
@@ -132,7 +133,7 @@ Tsiry received one Master’s in Trade and Marketing Intelligence at the Univers
 
 ---
 
-####  Angelo Andrianiaina
+#### Angelo Andrianiaina
 
 Angelo is a ​​PhD student in the Department of Zoology and Animal Biodiversity at the University of Antananarivo. His project will focus on the seasonal dynamics of Bartonella in Malagasy fruit bat ectoparasites. Angelo hopes this information will aid in the comprehensive understanding of Malagasy fruit bat population health and corresponding conservation efforts.
 
