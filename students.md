@@ -10,6 +10,7 @@ Onimalala is currently a laboratory technician and PhD student vector-borne dise
 Onimalala holds a Master’s in Biochemistry, Biodiversity and Health from the University of Antananarivo during which she reviewed techniques for assessing the sensitivity of rat fleas Xenopsylla cheopis to insecticides. She earned her B.S. in Fundamental and Applied Biology from the University of Antananarivo. Outside of work, Onimalala is interested in reading, sports, and cinema.
 
 #### Fanohinjanaharinirina RASOAMALALA
+
 Is a current PhD student in the Plague Unit of Institut Pasteur de Madagascar. Her project is titled “Implication of small mammal fleas in the epidemiology of plague in Ankazobe.” She will be analyzing the role of fleas in the dynamics and transmission of plague (Yersinia pestis) from the Ankazobe district. This study will highlight the fluctuation of the flea population in an endemic focus and propose a better control and surveillance strategy in Madagascar.
 
 Fanohinjanaharinirina received her Master’s degree in Biochemistry, Biodiversity and Health from the University of Antananarivo during which time she studied  the molecular detection of Yersinia pestis and Rickettsia sp. in mammalian ectoparasites. Fanohinjanaharinirina has earned two B.S. degrees: one in biochemistry and molecular biology from the University of Antananarivo and another in biomedical technics from ACEEM University.
