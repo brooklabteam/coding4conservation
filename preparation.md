@@ -3,8 +3,6 @@ title: "Preparation"
 layout: page
 permalink: /preparation
 ---
-_Last updated 7 May 2022._
-
 <div class="bs-callout bs-callout-warning">
  <p>🥳 Congratulations on your selection for Coding-4-Conservation 2022!</p>
  <p>Please familiarize yourself with the preparation materials below in order to prepare for the upcoming workshop.</p>
