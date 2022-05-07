@@ -4,7 +4,7 @@ layout: page
 permalink: /preparation
 ---
 
-<div style="text-align: left; font-size: 1.7em; color:red;">
+<div style="text-align: left; font-size: 1.5em; color:red;">
 Congratulations on your selection for Coding-4-Conservation 2022!
 Please familiarize yourself with the preparation materials below in order to prepare for the upcoming workshop.
 </div>
@@ -25,9 +25,12 @@ Once you have selected a computer for use for the workshop, please be sure that 
 
 ### **Preparatory tutorials**
 
-After you have installed R and R studio on your computer, **<span style="color:red">please begin to work through the [four tutorials](tutorials/R_tutorials.zip) linked here.</span>** All of them are extensively annotated with directions. If you have any problems loading and/or the software, please let us know immediately. We expect you to be familiar with all material presented in these tutorials prior to the first meeting on June 13.
+After you have installed R and R studio on your computer, **<span style="color:red">please begin to work through the [four tutorials](tutorials/R_tutorials.zip) linked here.</span>** All of them are extensively annotated with directions. If you have any problems loading and/or the software, please let us know immediately. We expect you to be familiar with all material presented in these tutorials prior to the first meeting on June 13. 
 
-If you are struggling with the installation and/or introductory tutorials, you can find additional instruction at [this helpful website](https://www.w3schools.com/r/r_intro.asp). Please review the material as needed. We will have an open day for 
+If you are struggling with the installation and/or introductory tutorials, you can find additional instruction at [this helpful website](https://www.w3schools.com/r/r_intro.asp). Please review the material as needed. 
+
+We will hold open office hours on Friday, June 10 for anyone who is struggling with installation and/or programming.
+
 ---
 
 ### **Preparatory assignment**
