@@ -15,7 +15,9 @@ Please stay tuned for our replies!</center></p>
  
 <p>We are pleased to announce our National Geographic-funded, year-long mentorship program <em>Coding for Conservation</em>. This program is targeted towards Malagasy students in their third cycle or higher in conservation biology, zoology, animal biodiversity, entomology, botany, and related fields, though <strong>all are welcome to apply</strong>. In part with this program, Malagasy students will attend a mix of remote (online) and in-person lectures and tutorials on an <em>every-other-week frequency</em> while also receiving <em>one-on-one instruction</em> in data analysis and scientific writing oriented towards the publication of their personal research projects. Funding will be provided for students to procure data to attend online workshops, and opportunities will be available for students based in Antananarivo to view lectures in a group setting.</p>
 
+<!--
 <img src="assets/img/IMGP1272.JPG" style="float: left; max-width: 10em; margin: 1em 1em 1em 0;" />
+-->
 
 <p>Students will receive general instruction in the analysis and modeling of ecological data in a series of interactive lectures and computer-based tutorials using the open-source software R and learn to fine-tune research questions and develop clear analytical frameworks. Attendance and participation in all lessons and tutorials will be mandatory.</p>
 
@@ -25,7 +27,7 @@ Please stay tuned for our replies!</center></p>
 
 <p>The course will be taught primarily in English, though a subset of the faculty will be available to offer some translation into French and/or Malagasy. A working knowledge of the English language is required for admission; however, we will do our best to make the material accessible to students who find English challenging. If you have any questions about the appropriateness of your background or training for our course, either in language or in science, please do not hesitate to contact us straight away (email below).</p>
 
-<p>Selected students have already been notified of their invitation to participation in the program. Please review our tentative [syllabus](/c4c_syllabus.md) for a tentative program plan. You will be invited to join a Google Calendar that includes links to these zoom meetings shortly. Please also review and complete all installations and tutorials on the [preparation](/preparation.md) page prior to the onset of the workshop on June 13. We will have an open office hours day on Friday, June 13 if you have any questions or are struggling with any of the material.</p>
+<p>Selected students have already been notified of their invitation to participation in the program. Please review our tentative [syllabus](syllabus.html) for a tentative program plan. You will be invited to join a Google Calendar that includes links to these zoom meetings shortly. Please also review and complete all installations and tutorials on the [preparation](preparation.html) page prior to the onset of the workshop on June 13. We will have an open office hours day on Friday, June 13 if you have any questions or are struggling with any of the material.</p>
 
 
 
