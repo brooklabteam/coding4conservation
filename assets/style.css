@@ -41,11 +41,3 @@ https://gist.github.com/matthiasg/6153853
   background-color: #f0f7fd;
   border-color: #d0e3f0;
 }
-
-/* https://cpratt.co/twitter-bootstrap-callout-css-styles/ */
-.bs-callout-success {
-    border-left-color: #5cb85c;
-}
-.bs-callout-success h4 {
-    color: #5cb85c;
-}
