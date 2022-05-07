@@ -14,7 +14,7 @@ Please familiarize yourself with the preparation materials below in order to pre
 
 ### **Software installations**
 
-We ask that you please begin to familiarize yourself with the computer programs that will be used throughout the duration of the training. You will need a personal computer with internet access in order to participate, though funds are available to support the purchase of data credit to facilitate your participation. If you do not have access to a computer, please email Cara Brook at [cbrook@uchicago.edu](cbrook@uchicago.edu) immediately to find a solution.
+We ask that you please begin to familiarize yourself with the computer programs that will be used throughout the duration of the training. You will need a personal computer with internet access in order to participate, though funds are available to support the purchase of data credit to facilitate your participation. *If you do not have access to a computer, please email Cara Brook at [cbrook@uchicago.edu](cbrook@uchicago.edu) immediately to find a solution.*
 
 Once you have selected a computer for use for the workshop, please be sure that the following programs are installed and working:
 
@@ -31,6 +31,18 @@ After you have installed R and R studio on your computer, **<span style="color:r
 If you are struggling with the installation and/or introductory tutorials, you can find additional instruction at [this helpful website](https://www.w3schools.com/r/r_intro.asp). Please review the material as needed. 
 
 We will hold open office hours on Friday, June 10 for anyone who is struggling with installation and/or programming.
+
+
+Once you have R and RStudio installed and have completed the linked tutorials, please install the following required packages for C4C by copying and pasting the following SINGLE command into your R console:
+
+
+```{r echo=TRUE, message=TRUE, warning=TRUE, eval=FALSE}
+
+install.packages(c("arm", "asnipe", "coloRamps", "deSolve", "dplyr", "ergm", "ggplot2", "googleway", "igraph", "installr", "lattice", "leaflet", "lme4", "maps", "maptools", "MASS", "Matrix", "minqa", "mgcv",  "mgcv", "network", "nlme", "plyr", "raster", "Rcpp", "reshape", "reshape2", "rgdal", "rgeos", "sp", "survival", "tnet", "unmarked"))
+
+```
+
+If you have any difficulty completing this installation, please reach out for help on our June 10 open office hours day.
 
 ---
 
