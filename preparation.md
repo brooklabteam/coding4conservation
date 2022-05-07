@@ -31,12 +31,7 @@ We will hold open office hours on Friday, June 10 for anyone who is struggling w
 
 Once you have R and RStudio installed and have completed the linked tutorials, please install the following required packages for C4C by copying and pasting the following SINGLE command into your R console:
 
-
-```
-
-install.packages(c("arm", "asnipe", "coloRamps", "deSolve", "dplyr", "ergm", "ggplot2", "googleway", "igraph", "installr", "lattice", "leaflet", "lme4", "maps", "maptools", "MASS", "Matrix", "minqa", "mgcv",  "mgcv", "network", "nlme", "plyr", "raster", "Rcpp", "reshape", "reshape2", "rgdal", "rgeos", "sp", "survival", "tnet", "unmarked"))
-
-```
+<code>install.packages(c("arm", "asnipe", "coloRamps", "deSolve", "dplyr", "ergm", "ggplot2", "googleway", "igraph", "installr", "lattice", "leaflet", "lme4", "maps", "maptools", "MASS", "Matrix", "minqa", "mgcv",  "mgcv", "network", "nlme", "plyr", "raster", "Rcpp", "reshape", "reshape2", "rgdal", "rgeos", "sp", "survival", "tnet", "unmarked"))</code>
 
 If you have any difficulty completing this installation, please reach out for help on our June 10 open office hours day.
 
