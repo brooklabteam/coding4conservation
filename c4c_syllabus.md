@@ -15,8 +15,8 @@ permalink: /syllabus
 **June 2022**
 
 *Week 1: Models and Data*
-* Monday, June 13: Intro to Program + Student Research Presentations (Brook)
-* Wednesday, June 15: Models and Data lecture + Exploring and Visualizing Data in R, tutorial
+* Monday, June 13: Intro to Program + Student Research Presentations (**Cara Brook**)
+* Wednesday, June 15: Models and Data lecture + Exploring and Visualizing Data in R, tutorial (**Cara Brook**)
 * Mentor/Mentee Goal: Define research questions for project
 
 *Week 2: Intro to simple statistics*
@@ -64,7 +64,7 @@ permalink: /syllabus
 **October 2022**
 
 *Week 9: Research updates*
-*Monday, October 24: Full group check-in + research updates
+* Monday, October 24: Full group check-in + research updates
 * Mentor/Mentee Goal: Conclude Figure 5 for final paper (if applicable) + outline plans for writing manuscript 
 
 **November 2022**
