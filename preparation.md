@@ -6,8 +6,8 @@ permalink: /preparation
 
 
 <div class="bs-callout bs-callout-warning">
-<p><center>🥳 Congratulations on your selection for Coding-4-Conservation 2022! <br />
-Please familiarize yourself with the preparation materials below in order to prepare for the upcoming workshop.</center></p>
+<p>🥳 Congratulations on your selection for Coding-4-Conservation 2022! <br />
+Please familiarize yourself with the preparation materials below in order to prepare for the upcoming workshop.</p>
 </div>
 
 ---
@@ -18,7 +18,7 @@ We ask that you please begin to familiarize yourself with the computer programs 
 
 Once you have selected a computer for use for the workshop, please be sure that the following programs are installed and working:
 
-* Excel, or a compatible spreadsheet software such as [Google Spreadsheets](https://docs.google.com/spreadsheets/u/0/)
+* Excel, or a compatible spreadsheet software such as [Google Sheets ↗](https://sheets.google.com)
 * R – a statistical programming language ([Windows](https://cran.r-project.org/bin/windows/base/), [Linux](https://cran.r-project.org/bin/linux/), and [MacOS](https://cran.r-project.org/bin/macosx/))
 * [R Studio](https://www.rstudio.com/products/rstudio/download/) – a user interface for R that will be needed for computer exercises
 
