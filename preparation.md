@@ -4,9 +4,10 @@ layout: page
 permalink: /preparation
 ---
 
-<div style="text-align: left; font-size: 1.5em; color:red;">
-Congratulations on your selection for Coding-4-Conservation 2022!
-Please familiarize yourself with the preparation materials below in order to prepare for the upcoming workshop.
+
+<div class="bs-callout bs-callout-warning">
+<p><center>🥳 Congratulations on your selection for Coding-4-Conservation 2022! <br />
+Please familiarize yourself with the preparation materials below in order to prepare for the upcoming workshop.</center></p>
 </div>
 
 ---
