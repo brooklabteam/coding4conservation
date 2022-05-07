@@ -51,4 +51,4 @@ To speed up progress on the presentation day, we will collect slides in advance 
 
 ### **Slack**
 
-We will communicate primarily via [Slack](https://slack.com/)! Please see your email for an invitation to our program Slack channel, and please reach out if you have any difficulties getting the program up and running.
+We will communicate primarily via the [C4C Slack Team](https://coding4conservation.slack.com/)! Please see your email for an invitation to our program Slack channel, and please reach out if you have any difficulties getting the program up and running.
