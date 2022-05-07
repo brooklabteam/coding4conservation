@@ -25,9 +25,10 @@ Please stay tuned for our replies!</center></p>
 
 <img src="assets/img/IMG_1317.JPG" style="float: right; width: 60%; max-width: 10em; margin: 1em 0 1em 1em;" />
 
-<p>The course will be taught primarily in English, though a subset of the faculty will be available to offer some translation into French and/or Malagasy. A working knowledge of the English language is required for admission; however, we will do our best to make the material accessible to students who find English challenging. If you have any questions about the appropriateness of your background or training for our course, either in language or in science, please do not hesitate to contact us straight away (email below).</p>
+<!--<p>The course will be taught primarily in English, though a subset of the faculty will be available to offer some translation into French and/or Malagasy. A working knowledge of the English language is required for admission; however, we will do our best to make the material accessible to students who find English challenging. If you have any questions about the appropriateness of your background or training for our course, either in language or in science, please do not hesitate to contact us straight away (email below).</p>
+-->
 
-<p>Selected students have already been notified of their invitation to participation in the program. Please review our tentative [syllabus](/syllabus) for a tentative program plan. You will be invited to join a Google Calendar that includes links to these zoom meetings shortly. Please also review and complete all installations and tutorials on the [preparation](/preparation) page prior to the onset of the workshop on June 13. We will have an open office hours day on Friday, June 13 if you have any questions or are struggling with any of the material.</p>
+<p><strong>Selected students have already been notified of their invitation to participation in the program.</strong> Please review our tentative <a href="/syllabus">syllabus</a> for a tentative program plan. You will be invited to join a Google Calendar that includes links to these zoom meetings shortly. Please also review and complete all installations and tutorials on the <a href="/preparation">preparation</a> page prior to the onset of the workshop on June 13. We will have an open office hours day on Friday, June 13 if you have any questions or are struggling with any of the material.</p>
 
 
 
