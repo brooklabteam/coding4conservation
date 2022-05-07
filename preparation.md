@@ -1,18 +1,7 @@
 ---
-title: "Preparation for E^2^M^2^"
-author: ""
-date: ""
-output:
-  html_document: default
-  pdf_document: default
----
-<style type="text/css">
-h1.title {
-  font-size: 31px;
-  color:black;
-}
-</style>
-
+title: "Preparation"
+layout: page
+permalink: /preparation
 ---
 
 <div style="text-align: left; font-size: 1.7em; color:red;">
