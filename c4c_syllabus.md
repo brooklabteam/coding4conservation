@@ -1,5 +1,6 @@
 ---
 title: "Coding 4 Conservation Syllabus (Tentative)"
+layout: page
 permalink: /syllabus
 ---
 
