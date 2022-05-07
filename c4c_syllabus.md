@@ -6,13 +6,17 @@ permalink: /syllabus
 
 **General Notes**
 
+* All students should complete the [Preparation](/preparation) materials and assignments prior to the start of the course on Monday, June 13.
+* Formal courses (usually one Monday lecture, paired with one Wednesday tutorial) will take place every two weeks from June 13 through early September. 
 * All courses will take place from 5:30-7pm Madagascar time (9:30-11am US CT) unless otherwise noted. 
-* Formal courses (usually one Monday lecture, paired with one Wednesday tutorial) will take place every two weeks through early September. 
 * It is the expectation that mentors and mentees meet and/or discuss virtually (e.g. slack) on the off-weeks between courses to (1) address any confusion from the topics of the week and (2) guide progress on each student's independent research project.
 * Training themes are listed below by week of instruction with an accompanying *Mentor/Mentee Goal* to help track research progress in the interim weeks between courses.
 
 
 **June 2022**
+
+*Week 0: Preparation*
+* Friday, June 10: Please attend open office hours if you have questions on installa
 
 *Week 1: Models and Data*
 * Monday, June 13: Intro to Program + Student Research Presentations (**Cara Brook**)
