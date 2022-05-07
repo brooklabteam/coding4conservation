@@ -56,9 +56,6 @@ To speed up progress on the presentation day, we will collect slides in advance 
 
 ---
 
-### **Food, accommodation, and weather**
+### **Slack**
 
-All meals and lodging during the workshop will be provided, beginning with lunch on Monday, January 6 (please eat breakfast prior to arrival) and ending with lunch on Sunday, January 12 (you will be responsible for your own dinner the evening after return to Tana). With the exception of lunch during both transit journeys, all meals will take place at Centre ValBio. Additionally, lunch, snacks, and coffee will be provided at our mandatory closing session at Institut Pasteur de Madagascar (IPM) on Tuesday, January 14, as well as at the optional 'R bootcamp' which will precede the workshop at IPM on Saturday, January 4 and Sunday, January 5.
-
-Our workshop takes place at the onset of the rainy season in Madagascar’s summer. As such, it will be hot and humid in Ranomafana, so please pack accordingly. While most of our workshop will take place in the CVB conference room, some of our sessions will involve hiking outside. Please bring bug-repellent clothing (long sleeves and pants), hiking shoes, and rain gear. Each participant should also bring a backpack, a water bottle, and a headlamp or flashlight to take on the trail.
-
+We will communicate primarily via [Slack](https://slack.com/)! Please see your email for an invitation to our program Slack channel, and please reach out if you have any difficulties getting the program up and running.
