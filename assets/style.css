@@ -7,19 +7,6 @@
   font-size: .8em; 
 }
 
-.img-profile {
-  float: left;
-  width: 20%;
-  max-width: 250px;
-  padding: 0 1em 0 0;
-}
-
-.img-profile::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
 /* Side notes for calling out things
 https://gist.github.com/matthiasg/6153853
 -------------------------------------------------- */
