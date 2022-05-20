@@ -10,6 +10,7 @@
 .img-profile {
   width: 20%;
   max-width: 250px;
+  padding: 0 1em 0 0;
 }
 
 /* Side notes for calling out things
