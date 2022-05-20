@@ -10,6 +10,7 @@
 .img-profile {
   width: 20%;
   max-width: 250px;
+  min-width: 75px;
   padding: 0 1em 0 0;
 }
 
