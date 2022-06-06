@@ -24,39 +24,39 @@ permalink: /syllabus
 * Mentor/Mentee Goal: Define research questions for project
 
 *Week 2: Intro to simple statistics*
-* Monday, June 27: Linear regression and simple statistics lecture
-* Wednesday, June 29: Linear regression and simple statistics tutorial
+* Monday, June 27: Linear regression and simple statistics lecture (**Kacie Ring / Sophia Horigan**)
+* Wednesday, June 29: Linear regression and simple statistics tutorial (**Kacie Ring / Sophia Horigan**)
 * Mentor/Mentee Goal: Explore individual datasets + Refine research questions
 
 **July 2022**
 
 *Week 3: Intro to mixed modeling*
-* Monday, July 11: Intro to mixed modeling lecture
-* Wednesday, July 13: Intro to mixed modeling lecture tutorial
+* Monday, July 11: Intro to mixed modeling lecture (**Emily Ruhs / Dave Klinges**)
+* Wednesday, July 13: Intro to mixed modeling lecture tutorial (**Emily Ruhs / Dave Klinges**)
 * Mentor/Mentee Goal: Outline plan for research analyses on independent work
 
-*Week 4: Intro to compartmental models*
-* Monday, July 25: Building compartmental models in ecology lecture
-* Wednesday, July 27: Building compartmental models in ecology tutorial
+*Week 4: Community biodiversity analyses*
+* Monday, July 25: Community biodiversity analysis lecture (**Katie Young**)
+* Wednesday, July 27: Community biodiversity analysis tutorial  (**Katie Young**)
 * Mentor/Mentee Goal: Outline 3-5 figures and accompany analyses for final paper
 
 **August 2022**
 
-*Week 5: Model fitting*
-* Monday, August 8: Fitting models to data lecture
-* Wednesday, August 10: Fitting models to data tutorial
+*Week 5: Building and fitting compartmental models in ecology*
+* Monday, August 8: Building and fitting compartmental models in ecology lecture (**Katie Gostic**)
+* Wednesday, August 10: Building and fitting compartmental models in ecology tutorial (**Katie Gostic**)
 * Mentor/Mentee Goal: Begin work on figures for final paper
 
 *Week 6: Model evaluation and comparison*
-* Monday, August 22: Model evaluation and comparison lecture
-* Wednesday, August 24: Model evaluation and comparison tutorial
+* Monday, August 22: Model evaluation and comparison lecture (**Sam Sambado/Tatum Katz**)
+* Wednesday, August 24: Model evaluation and comparison tutorial (**Sam Sambado/Tatum Katz**)
 * Mentor/Mentee Goal: Conclude Figure 1 for final paper
 
 **September 2022**
 
 *Week 7: Intro to phylogenetics*
-* Monday, September 5: Intro to phylogenetic modeling lecture
-* Wednesday, September 7: Intro to phylogenetic modeling tutorial
+* Monday, September 5: Intro to phylogenetic modeling lecture (**Cara Brook**)
+* Wednesday, September 7: Intro to phylogenetic modeling tutorial (**Cara Brook**)
 * Mentor/Mentee Goal: Conclude Figure 2 for final paper
 
 *After courses conclude, we will move to once-a-month full group check-ins and research progress reports as a whole class. Mentors and mentees will continue to meet on their own time throughout this stage of the research to advance research progress on student projects.*
