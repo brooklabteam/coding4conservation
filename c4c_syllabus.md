@@ -6,7 +6,7 @@ permalink: /syllabus
 
 **General Notes**
 
-* All students should complete the [Preparation](/preparation) materials and assignments prior to the start of the course on Monday, June 13.
+* All students should complete the [preparation](/preparation) materials and assignments prior to the start of the course on Monday, June 13.
 * Formal courses (usually one Monday lecture, paired with one Wednesday tutorial) will take place every two weeks from June 13 through early September. 
 * All courses will take place from 5:30-7pm Madagascar time (9:30-11am US CT) unless otherwise noted. 
 * It is the expectation that mentors and mentees meet and/or discuss virtually (e.g. slack) on the off-weeks between courses to (1) address any confusion from the topics of the week and (2) guide progress on each student's independent research project.
