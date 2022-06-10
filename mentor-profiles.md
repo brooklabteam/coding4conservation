@@ -3,14 +3,6 @@ layout: page
 title: Mentor profiles
 permalink: /mentor-profiles
 ---
-<style>
-.img-profile::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
-
 Here are our 2022 mentors...
 
 <img src="/assets/mentors/brook,cara.jpeg" class="rounded float-start img-profile" />
