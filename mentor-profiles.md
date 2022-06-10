@@ -9,6 +9,8 @@ Here are our 2022 mentors...
 
 **[Cara Brook](https://brooklab.org/)** is an Assistant Professor in the Department of Ecology and Evolution at the University of Chicago. She received her B.S. in Earth Systems from Stanford University in 2010, and her M.Sc. and Ph.D. in Ecology and Evolutionary Biology from Princeton University in 2014 and 2017, respectively, in the lab of Professor Andy Dobson. While at Princeton, Brook pioneered a longterm fruit bat field system in Madagascar, which she maintains to this day. From 2017-2020, she was Miller Postdoctoral Fellow in the lab of Professor Mike Boots at the University of California, Berkeley, and in 2020, she was awarded a Loréal USA For Women in Science fellowship and a Branco Weiss Society in Science fellowship, which she began at Berkeley and transitioned to her current faculty job at U-Chicago.
 
+---
+
 <img src="/assets/mentors/gostic,katie.jpg" class="rounded float-start img-profile" />
 
 **[Katie Gostic](https://kgostic.github.io)** is a Computational Staff Scientist in Dr. Sarah Cobey’s lab in the Department of Ecology and Evolution at the University of Chicago. She received her AB in Ecology and Evolutionary Biology from Princeton, and a PhD in Biology from the University of California Los Angeles (UCLA) where she was advised by Dr. Jamie Lloyd-Smith. She received a Complex Systems Postdoctoral Fellowship from the James S. McDonnell Founation to study development of the adaptive immune repertoire to influenza viruses. Her research uses models and data collected from various scales (populations, individuals, or within-host) to study the emergence, evolution, and control of novel pathogens.
