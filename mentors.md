@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Mentor profiles
-permalink: /mentor-profiles
+title: Mentors
+permalink: /mentors
 ---
 Here are our 2022 mentors...
 
