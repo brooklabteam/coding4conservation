@@ -21,6 +21,11 @@ Here are our 2022 mentors...
 </div>
 
 <div class="profile-card">
+	<img src="/assets/mentors/katz,tatum.jpg" class="rounded float-start img-profile" />
+	<strong><a href="https://tatumskatz.weebly.com">Tatum Katz</a></strong> is a Postdoctoral fellow for the USDA Agricultural Research Service and Scientific Computing Initiative to use artificial intelligence to predict and prevent <i>Salmonella</i> in the meat supply chain. She received her B.A. in Biology from Occidental College in 2017. She recieved her M.A. in Applied Statistics in 2021, and her PhD in Ecology, Evolution, and Marine Biology in 2022, both from the University of California Santa Barbara. Her PhD focused on investigating reservoirs and vectors of the amphibian-killing chytrid fungus <i>Batrachochytrium dendrobatidis</i> using field work, laboratory experiments, and quantitative methods.
+</div>
+
+<div class="profile-card">
 	<img src="/assets/mentors/klinges,david.JPG" class="rounded float-start img-profile" />
 	<strong>Dave Klinges</strong> is a third year PhD Candidate at the University of Florida. He is interested in understanding where, when, and why is climate change or land use change a greater threat to biodiversity and natural resources, and uses a combination of geospatial tools, high-powered computing, and on-the-ground data collection to map and model from local to global scales. His research program currently centers upon two primary projects: using mechanistic microclimate modeling to understand spatiotemporal drivers of microclimate globally, and exploring how human modification of forested landscapes in Madagascar shapes near-surface temperature as well as amphibian diversity and distributions. Through this work he intends to expand fundamental knowledge of ecoclimatic relationships, while integrating academic insights into real-world conservation.
 </div>
