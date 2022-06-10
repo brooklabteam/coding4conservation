@@ -33,9 +33,17 @@ Here are our 2022 mentors...
 
 **[Onja Razafindratsima](https://www.razafindratsima.org/)** is an Assistant Professor in Integrative Biology at the University of California, Berkeley. A Malagasy ecologist and a National Geographic Explorer, Onja is passionate about tropical ecology and conservation with a strong focus on plant-animal interactions, lemur ecology and seed dispersal. Onja earned a PhD in Ecology and Evolutionary Biology from Rice University and was later a Hrdy Fellow in Conservation Biology at Harvard University.
 
+<img src="/assets/mentors/ring,kacie.jpeg" class="rounded float-start img-profile" />
+
+**Kacie Ring** is a PhD student in Dr. Cherie Briggs lab in the EEMB Department at UCSB. She received her B.S. in Ecology and  Evolutionary biology from UCSC and her M.S. in Microbiology at SFSU advised by Dr. Andrea Swei. At SFSU, she studied how host blood meal alters vector comptency in the western black-legged ticks. Her current interests include how land-use change, such as deforestation, fragmentation and restoration, impacts vector-borne diseases. 
+
 <img src="/assets/mentors/ruhs,emily.jpg" class="rounded float-start img-profile" />
 
 **Emily Cornelius Ruhs** is a Postdoctoral Scholar in Dr. Cara Brook’s lab in the Department of Ecology and Evolution at the University of Chicago. She received her B.S. in Zoology from Michigan State University in 2011, her M.S. in Ecology from the University of Georgia in 2013 where she was advised by Drs. Sonia Altizer and Andrew Davis, and her Ph.D. in Wildlife Ecology from the University of Wisconsin-Madison in 2017, where she was advised by Dr. Bill Karasov. She held a short-term research fellowship at the Université du Quebéc à Rimouski, a contractor position at USGS, and a postdoctoral position at the University of South Florida before joining the Brook lab in 2021. Emily is both a field and experimental ecologist who focuses on how energetic constraints (e.g. food availability, reproduction, migration) impacts immune function and disease in a suite of taxonomic groups including birds, primates, and now bats. In the Brook lab she works on how nutritional status, reproduction, and seasonality influence immune function and disease dynamics in three species of fruit bats in Madagascar.
+
+<img src="/assets/mentors/russell,imani.jpg" class="rounded float-start img-profile" />
+
+**Imani Russell** is a PhD candidate working with Dr. Cherie Briggs at the University of California Santa Barbara. She completed her B.S. in Biology and Ecological Theory at Mills College in Oakland, where she studied social behavior and ectoparasite transmission in California ground squirrels with Dr. Jennifer E. Smith. She completed her M.S. at the University of Michigan in Ecology and Evolutionary Biology, where she researched ecological predictors of Bd infection across lowland Amazonian frog species with Drs. Alison Davis-Rabosky and Timothy James. Imani is currently studying how host-parasite genetic interactions vary across California to produce the patterns of disease dynamics observed in nature.
 
 <img src="/assets/mentors/sambado,sam.jpg" class="rounded float-start img-profile" />
 
