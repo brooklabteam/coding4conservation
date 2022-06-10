@@ -21,6 +21,11 @@ Here are our 2022 mentors...
 </div>
 
 <div class="profile-card">
+	<img src="/assets/mentors/klinges,david.JPG" class="rounded float-start img-profile" />
+	<strong>Dave Klinges</strong> is a third year PhD Candidate at the University of Florida. He is interested in understanding where, when, and why is climate change or land use change a greater threat to biodiversity and natural resources, and uses a combination of geospatial tools, high-powered computing, and on-the-ground data collection to map and model from local to global scales. His research program currently centers upon two primary projects: using mechanistic microclimate modeling to understand spatiotemporal drivers of microclimate globally, and exploring how human modification of forested landscapes in Madagascar shapes near-surface temperature as well as amphibian diversity and distributions. Through this work he intends to expand fundamental knowledge of ecoclimatic relationships, while integrating academic insights into real-world conservation.
+</div>
+
+<div class="profile-card">
 	<img src="/assets/mentors/laverty,theresa.jpg" class="rounded float-start img-profile" />
 	<strong><a href="https://theresalaverty.weebly.com/">Theresa Laverty</a></strong> is a Postdoctoral Scholar in Dr. Cara Brook’s lab in the Department of Ecology and Evolution at the University of Chicago. She received her B.A. in Ecology and Evolutionary Biology from Princeton University in 2010, and her Ph.D. in Fish, Wildlife, and Conservation Biology from Colorado State University in 2019, where she was advised by Dr. Joel Berger. She held a postdoctoral position at Colorado State University under the supervision of Dr. Kathryn Stoner before joining the Brook lab in 2021. Theresa’s a field ecologist and conservation biologist who has studied species as diverse as crocodilians, beach-nesting birds, mountain gorillas, and African elephants. For the last nine years, she has largely focused on the population and community ecology of bat communities in the deserts of northwestern Namibia and the southwestern United States, and currently in forest ecosystems in Madagascar as a member of the Brook lab.
 </div>
