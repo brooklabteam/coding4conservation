@@ -19,6 +19,12 @@
   clear: both;
 }
 
+.profile-card::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
 /* Side notes for calling out things
 https://gist.github.com/matthiasg/6153853
 -------------------------------------------------- */
