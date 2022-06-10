@@ -11,6 +11,18 @@
   min-width: 20%;
   max-width: 250px;
   padding: 0 1em 0 0;
+  clear: both;
+}
+
+.profile-card {
+  margin-bottom: 2em;
+  clear: both;
+}
+
+.profile-card::after {
+  content: "";
+  clear: both;
+  display: table;
 }
 
 /* Side notes for calling out things
