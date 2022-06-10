@@ -56,7 +56,7 @@ permalink: /syllabus
 
 *Week 7: Intro to phylogenetics*
 * Monday, September 5: Intro to occupancy modeling lecture (**Theresa Laverty**)
-* Wednesday, September 7: Intro to phylogenetic modeling tutorial (**Theresa Laverty**)
+* Wednesday, September 7: Intro to occupancy modeling tutorial (**Theresa Laverty**)
 * Mentor/Mentee Goal: Conclude Figure 2 for final paper
 
 *After courses conclude, we will move to once-a-month full group check-ins and research progress reports as a whole class. Mentors and mentees will continue to meet on their own time throughout this stage of the research to advance research progress on student projects.*
