@@ -5,10 +5,10 @@ permalink: /mentor-profiles
 ---
 Here are our 2022 mentors...
 
-<div class="card mb-3" style="max-width: 540px;">
+<div class="card mb-3">
   <div class="row g-0">
 	<div class="col-md-4">
-	  <img src="/assets/mentors/brook,cara.jpeg" class="rounded float-start" />
+	  <img src="/assets/mentors/brook,cara.jpeg" />
 	</div>
 	<div class="col-md-8">
 	  <div class="card-body">
@@ -18,10 +18,10 @@ Here are our 2022 mentors...
   </div>
 </div>
 
-<div class="card mb-3" style="max-width: 540px;">
+<div class="card mb-3">
   <div class="row g-0">
 	<div class="col-md-4">
-	  <img src="/assets/mentors/gostic,katie.jpg" class="rounded float-start" />
+	  <img src="/assets/mentors/gostic,katie.jpg" />
 	</div>
 	<div class="col-md-8">
 	  <div class="card-body">
