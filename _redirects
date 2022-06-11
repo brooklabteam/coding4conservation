@@ -1,0 +1,4 @@
+# netlify redirects https://docs.netlify.com/routing/redirects/#syntax-for-the-redirects-file
+
+# Redirects from changing page URLs
+/mentor-profiles	/mentors
