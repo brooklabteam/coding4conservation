@@ -54,7 +54,7 @@ permalink: /syllabus
 
 **September 2022**
 
-*Week 7: Intro to phylogenetics*
+*Week 7: Intro to occupancy modeling*
 * Monday, September 5: Intro to occupancy modeling lecture (**Theresa Laverty**)
 * Wednesday, September 7: Intro to occupancy modeling tutorial (**Theresa Laverty**)
 * Mentor/Mentee Goal: Conclude Figure 2 for final paper
