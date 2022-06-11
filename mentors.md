@@ -71,6 +71,11 @@ Here are our 2022 mentors...
 </div>
 
 <div class="profile-card">
+	<img src="/assets/mentors/treuer,timothy.jpg" class="rounded float-start img-profile" />
+	<strong><a href="http://www.timothytreuer.com">Timothy Treuer</a></strong> is a recent Gund Postdoctoral Fellow at the University of Vermont. He completed a bachelor’s degree in organismic and evolutionary biology at Harvard and a doctorate in ecology and evolutionary biology at Princeton. His research looks at how nature-based climate solutions can have impacts on biodiversity and human wellbeing. With the support of a Spark Award from the Bridge Collaborative, his recent research in Madagascar looked at how forest restoration and agroforestry could be used as tools to simultaneously address habitat loss, rural poverty, air and water quality, and mosquito-born disease risk. He is currently based in Alaska, where he writes about a number of topics in tthe sciences, primarily for Regeneration.org.
+</div>
+
+<div class="profile-card">
 	<img src="/assets/mentors/young,katie.jpg" class="rounded float-start img-profile" />
 	<strong>Katie Young</strong> is a Postdoctoral Scholar in Dr. Cara Brook’s lab in the Department of Ecology and Evolution at the University of Chicago. She received her B.S. in Biology from Longwood University in 2008, followed by two years of service, 2009 - 2011, as a Peace Corps Volunteer in Kenya. She received her M.S. and PhD in Biology from New Mexico State University in 2015 and 2019 where she was advised by Dr. Kathryn Hanley. She was awarded a Fulbright Fellowship to Malaysian Borneo in 2016. She was a USDA funded Postdoctoral fellow working on a Grand Challenge Project in Mexico and New Mexico from 2019 to 2022 before joining the Brook lab. Katie is an RNA virus ecologist with a focus on arthropod-borne viruses and uses an inter-disciplinary approach including field-based sampling, molecular biology, and open-source data analytics to better understand complex host-vector-environmental interactions that drive viral emergence in Madagascar.
 </div>
