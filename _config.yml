@@ -48,5 +48,5 @@ url: https://coding4conservation.org
 #   sort_field: 'date'
 #   sort_reverse: true
 
-# include:
-#   - _redirects
+include:
+  - _redirects
