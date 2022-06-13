@@ -36,7 +36,10 @@ She received her Master’s and Bachelor’s degrees in Biological Sciences from
 Ginot is a Master’s student in Animal Conservation Biology at the University of Antananarivo. His project will focus on lemur density and ecological preference of 3 lemur species in Ambohidray. His data include the DBH perches of lemurs, perch heights, plant species richness, canopy openness and more based on line-transect sampling. 
 
 This work will help guide the conservation policies of the newly protected area at Ambohidray, especially aiding in lemur conservation. Ginot’s other interests include S.C.O.U.T., benevola, basketball and dance.
-Miary Raselimanana
+
+---
+
+#### Miary Raselimanana
 
 Miary is an Adjunct lecturer in the Zoology and Animal Biodiversity Department at the University of Antananarivo. Her research project aims to understand the interspecific variation and sex-specific variation in perch use in two threatened and short-lived chameleons: Furcifer labordi and Furcifer nicosiai in Kirindy, Morondava. Miary hopes her work documenting microhabitat preference and niche partitioning among sympatric chameleon species will help guide habitat management.
 
