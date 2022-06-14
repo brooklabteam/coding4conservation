@@ -48,7 +48,7 @@ Here are some profiles about the students in the 2022 cohort, and their projects
 </div>
 
 <div class="profile-card">
-	<img src="/assets/students/tanjoniainaherynirinapatrick,rabarijaonina.jpeg" class="rounded float-start img-profile" />
+	<img src="/assets/students/tanjoniainaherynirinapatrick,rabarijaonina.jpg" class="rounded float-start img-profile" />
 	<strong>Tanjoniaina Hery Nirina Patrick Rabarijaonina</strong> is a Master’s student in Zoology and Animal Biodiversity at the University of Antananarivo. His project will explore the potential role of rodents in the secondary dispersal of an orphaned baobab species in Madagascar’s tropical dry forest. This study will help guide the conservation efforts and habitat restoration for baobabs with much needed information about animal seed dispersal.<br />
 	<br />
 	Tanjona earned his Bachelor’s degree in Life and Earth Sciences from the University of Antananarivo. His other pastimes include playing football, volleyball, petanque, chess and video games as well as cooking, playing guitar, farming, traveling and reading.
