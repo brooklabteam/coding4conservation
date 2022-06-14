@@ -16,7 +16,7 @@ Here are some profiles about the students in the 2022 cohort, and their projects
 </div>
 
 <div class="profile-card">
-	<!-- <img src="/assets/students/NAME-GOES-HERE.jpeg" class="rounded float-start img-profile" /> -->
+	<img src="/assets/students/fenosoa,zosamuelella.jpg" class="rounded float-start img-profile" />
 	<strong>Zo Samuel Ella Fenosoa</strong> is a PhD Student in biological and environmental science at the University of Antananarivo. Her project focuses on mistletoe (Bakerella spp.) fruit removal by frugivores and the germination of mistletoe seeds in Ranomafana National Park. This work will help elucidate the mutualistic interactions between mistletoe and seed-dispersing frugivores. She received her Master’s and Bachelor’s degrees in Biological Sciences from University of Antananarivo. In the past, Fenosoa has collaborated with scientists at Rice University and GERP (Groupe d’étude et de recherche sur les primates de Madagascar).
 </div>
 
@@ -68,7 +68,7 @@ Here are some profiles about the students in the 2022 cohort, and their projects
 </div>
 
 <div class="profile-card">
-	<!-- <img src="/assets/students/NAME-GOES-HERE.jpeg" class="rounded float-start img-profile" /> -->
+	<img src="/assets/students/rasamison,andrianarivelosoasolohery.jpg" class="rounded float-start img-profile" />
 	<strong>Andrianarivelosoa Solohery Rasamison</strong> is a PhD Student in Animal Biology at the University of Antananarivo. His project will examine acoustic sampling and long-term monitoring of bird populations in Mariarano in order to estimate the avifauna density and demography of the area. This will be the first demography study of forest birds in the Mariarano dry forest. Solohery earned his master’s degree in Biology, Ecology and Animal Conservation from University of Antananarivo. His Master’s thesis focuses on the breeding biology of Foudia omissa and Foudia madagascariensis at Ranomafana National Park. He has also served as a freelance birding tour guide for Madagascar Expedition Travel Agency.
 </div>
 
