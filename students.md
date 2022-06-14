@@ -52,7 +52,9 @@ Here are some profiles about the students in the 2022 cohort, and their projects
 
 <div class="profile-card">
 	<img src="/assets/students/rambinintsoa,mioramikoja.jpg" class="rounded float-start img-profile" />
-	<strong>Miora Mikoja Rambinintsoa</strong> is a research assistant with ESSA at the University of Antananarivo. Her project focuses on biodiversity conservation and climate change in the Bezà Mahafaly Special Reserve, in Southwestern Madagascar. This study will conclude with a proposal for conservation strategies in the face of climate variability to ensure the preservation of the unique biodiversity heritage of the Bezà Mahafaly Special Reserve. Miora earned her Master's degree in Forestry and Environmental sciences and Bachelor’s degree in Agronomy and Environmental Sciences from the University of Antananarivo. Outside of work, Miora’s interests include reading, Scout program and gymnastic.
+	<strong>Mikoja Rambinintsoa</strong> is a research assistant with ESSA at the University of Antananarivo. Her project focuses on biodiversity conservation and climate change in the Bezà Mahafaly Special Reserve, in Southwestern Madagascar. This study will conclude with a proposal for conservation strategies in the face of climate variability to ensure the preservation of the unique biodiversity heritage of the Bezà Mahafaly Special Reserve. Mikoja earned her Master’s degree in Forestry and Environmental sciences and Bachelor’s degree in Agronomy and Environmental Sciences from the University of Antananarivo. She is a member of the Society for Conservation Biology (SCB) and wants to contribute concretely to the development of conservation activities in Madagascar.
+	
+
 </div>
 
 <div class="profile-card">
