@@ -10,7 +10,7 @@ permalink: /syllabus
 
 **Week 1: Models and Data**
 * [Monday, June 13](https://uchicago.zoom.us/j/95255703944?pwd=U2Q5UWpQaHJucE5BbThJTUNNUFd0Zz09): Intro to Program + Student Research Presentations (**Cara Brook**)
-  * [Lecture](/lectures/C4C-introduction.pdf)
+  * [Lecture](lectures/C4C-introduction.pdf)
 * [Wednesday, June 15](https://uchicago.zoom.us/j/94541331065?pwd=ZkZRcEVqZE1mQ09SQkZjQUNqMk9YZz09): Models and Data lecture + Exploring and Visualizing Data in R, tutorial (**Cara Brook**)
 * *Mentor/Mentee Goal: Define research questions for project*
 
