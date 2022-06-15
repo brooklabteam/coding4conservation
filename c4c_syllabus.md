@@ -1,16 +1,8 @@
 ---
-title: "Coding 4 Conservation Syllabus (Tentative)"
+title: "Coding 4 Conservation Syllabus"
 layout: page
 permalink: /syllabus
 ---
-
-
-* Students can access preparation materials and assignments [here](/preparation).
-* All courses take place from 5:30-7pm Madagascar time (9:30-11am US CT) unless otherwise noted. 
-* Mentors and mentees should meet and/or discuss virtually (e.g. slack) on the off-weeks between courses to (1) address any confusion from the topics of the week and (2) guide progress on each student's independent research project. Mentor-mentee assignments are available [here](https://docs.google.com/spreadsheets/d/1LiB15Mq-37fHIPGmCCKeeCleA2mI4aWcjGG_UthsF5c/edit#gid=0).
-* Training themes are listed below by week of instruction with an accompanying *Mentor/Mentee Goal* to help track research progress in the interim weeks between courses. See [here](https://docs.google.com/spreadsheets/d/1HCjoNqVcXMw3KTSBItGuHyT_hUaLPW8vNQ5SdBJerW4/edit?usp=sharing) to track-week-by-week progress on these goals.
-* Our course schedule is accessible below. If you prefer to view it in Google Sheets form, you can also access it [here](https://docs.google.com/spreadsheets/d/1NxoWXWjJQMAHUbshYlE9oUVd0FoKkl1ux2dw5pfOf2M/edit#gid=0).
-* All lectures are recorded and available for download [here](https://uchicago.box.com/s/hogzw2rnj5yebvxnteajp237wzs0qlof).
 
 
 **Week 0: Preparation**
@@ -84,5 +76,15 @@ permalink: /syllabus
 **March-April: Independent work**
 * *Mentor/Mentee Goal: Edit and revise final paper as needed*
 * *Mentor/Mentee Goal: Submit final paper to peer-reviewed journal*
+
+---
+
+**General Notes**
+* Students can access preparation materials and assignments [here](/preparation).
+* All courses take place from 5:30-7pm Madagascar time (9:30-11am US CT) unless otherwise noted. 
+* Mentors and mentees should meet and/or discuss virtually (e.g. slack) on the off-weeks between courses to (1) address any confusion from the topics of the week and (2) guide progress on each student's independent research project. Mentor-mentee assignments are available [here](https://docs.google.com/spreadsheets/d/1LiB15Mq-37fHIPGmCCKeeCleA2mI4aWcjGG_UthsF5c/edit#gid=0).
+* Training themes are listed below by week of instruction with an accompanying *Mentor/Mentee Goal* to help track research progress in the interim weeks between courses. See [here](https://docs.google.com/spreadsheets/d/1HCjoNqVcXMw3KTSBItGuHyT_hUaLPW8vNQ5SdBJerW4/edit?usp=sharing) to track-week-by-week progress on these goals.
+* Our course schedule is accessible below. If you prefer to view it in Google Sheets form, you can also access it [here](https://docs.google.com/spreadsheets/d/1NxoWXWjJQMAHUbshYlE9oUVd0FoKkl1ux2dw5pfOf2M/edit#gid=0).
+* All lectures are recorded and available for download [here](https://uchicago.box.com/s/hogzw2rnj5yebvxnteajp237wzs0qlof).
 
 
