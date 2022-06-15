@@ -70,12 +70,15 @@ permalink: /syllabus
   * Mentor/Mentee Goal: Write results for final paper
 
 **Week 13: Final wrap up-and presentations**
+*Mentor/Mentee Goal:*
+  * Write discussion for final paper to complete first draft
 * Monday, February 13: Full group check-in + research presentations
 * Wednesday, February 15: Full group check-in + research presentations
-  * Mentor/Mentee Goal: Write discussion for final paper to complete first draft
+
 
 **March-April: Independent work**
-* Mentor/Mentee Goal: Edit and revise final paper as needed
-* Mentor/Mentee Goal: Submit final paper to peer-reviewed journal
+*Mentor/Mentee Goal:*
+  * Edit and revise final paper as needed
+  * Submit final paper to peer-reviewed journal
 
 
