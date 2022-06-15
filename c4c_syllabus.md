@@ -20,65 +20,70 @@ permalink: /syllabus
 **Week 1: Models and Data**
 * Monday, June 13: Intro to Program + Student Research Presentations (**Cara Brook**)
 * Wednesday, June 15: Models and Data lecture + Exploring and Visualizing Data in R, tutorial (**Cara Brook**)
-
+* *Mentor/Mentee Goal: Define research questions for project*
 
 **Week 2: Intro to simple statistics**
 * Monday, June 27: Linear regression and simple statistics lecture (**Kacie Ring / Sophia Horigan**)
 * Wednesday, June 29: Linear regression and simple statistics tutorial (**Kacie Ring / Sophia Horigan**)
-
+* *Mentor/Mentee Goal: Explore individual datasets + Refine research questions*
 
 **Week 3: Intro to mixed modeling**
 * Monday, July 11: Intro to mixed modeling lecture (**Emily Ruhs / Dave Klinges**)
 * Wednesday, July 13: Intro to mixed modeling lecture tutorial (**Emily Ruhs / Dave Klinges**)
+* *Mentor/Mentee Goal: Outline plan for research analyses on independent work*
 
 
 **Week 4: Community biodiversity analyses**
 * Monday, July 25: Community biodiversity analysis lecture (**Katie Young**)
 * Wednesday, July 27: Community biodiversity analysis tutorial  (**Katie Young**)
+* *Mentor/Mentee Goal: Outline 3-5 figures and accompany analyses for final paper*
 
 
 **Week 5: Building and fitting compartmental models in ecology**
 * Monday, August 8: Building and fitting compartmental models in ecology lecture (**Katie Gostic**)
 * Wednesday, August 10: Building and fitting compartmental models in ecology tutorial (**Katie Gostic**)
+* *Mentor/Mentee Goal: Begin work on figures for final paper*
 
 **Week 6: Model evaluation and comparison**
 * Monday, August 22: Model evaluation and comparison lecture (**Sam Sambado/Tatum Katz**)
 * Wednesday, August 24: Model evaluation and comparison tutorial (**Sam Sambado/Tatum Katz**)
+* *Mentor/Mentee Goal: Conclude Figure 1 for final paper*
 
 
 **Week 7: Intro to occupancy modeling**
 * Monday, September 5: Intro to occupancy modeling lecture (**Theresa Laverty**)
 * Wednesday, September 7: Intro to occupancy modeling tutorial (**Theresa Laverty**)
+* *Mentor/Mentee Goal: Conclude Figure 2 for final paper*
 
 *After courses conclude, we will move to once-a-month full group check-ins and research progress reports as a whole class. Mentors and mentees will continue to meet on their own time throughout this stage of the research to advance research progress on student projects.*
 
 **Week 8: Research updates**
 * Monday, September 26: Full group check-in + research updates
+* *Mentor/Mentee Goal: Conclude Figures 3-4 for final paper*
 
 **Week 9: Research updates**
 * Monday, October 24: Full group check-in + research updates
+* *Mentor/Mentee Goal: Conclude Figure 5 for final paper (if applicable) + outline plans for writing manuscript*
 
 **Week 10: Research updates**
 * Monday, November 21: Full group check-in + research updates
+* *Mentor/Mentee Goal: Write introduction to final paper*
 
 **Week 11: Research updates**
 * Monday, December 19: Full group check-in + research updates
-  * Mentor/Mentee Goal: Write methods for final paper
+* *Mentor/Mentee Goal: Write methods for final paper*
 
 **Week 12: Research updates**
 * Monday, January 16: Full group check-in + research updates
-  * Mentor/Mentee Goal: Write results for final paper
+* *Mentor/Mentee Goal: Write results for final paper*
 
 **Week 13: Final wrap up-and presentations**
-*Mentor/Mentee Goal:*
-  * Write discussion for final paper to complete first draft
 * Monday, February 13: Full group check-in + research presentations
 * Wednesday, February 15: Full group check-in + research presentations
-
+* *Mentor/Mentee Goal: Write discussion for final paper to complete first draft*
 
 **March-April: Independent work**
-*Mentor/Mentee Goal:*
-  * Edit and revise final paper as needed
-  * Submit final paper to peer-reviewed journal
+* *Mentor/Mentee Goal: Edit and revise final paper as needed*
+* *Mentor/Mentee Goal: Submit final paper to peer-reviewed journal*
 
 
