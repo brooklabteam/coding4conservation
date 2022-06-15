@@ -4,7 +4,6 @@ layout: page
 permalink: /syllabus
 ---
 
-**General Notes**
 
 * Students can access preparation materials and assignments [here](/preparation).
 * All courses take place from 5:30-7pm Madagascar time (9:30-11am US CT) unless otherwise noted. 
