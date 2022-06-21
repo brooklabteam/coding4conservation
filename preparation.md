@@ -22,7 +22,7 @@ Once you have selected a computer for use for the workshop, please be sure that 
 
 ### **Preparatory tutorials**
 
-After you have installed R and R studio on your computer, **<span style="color:red">please begin to work through the [four tutorials (ZIP download)](tutorials/R_tutorials.zip).</span>** All of them are extensively annotated with directions. If you have any problems loading and/or the software, please let us know immediately. We expect you to be familiar with all material presented in these tutorials prior to the first meeting on June 13. 
+After you have installed R and R studio on your computer, **<span style="color:red">please begin to work through the [four tutorials (ZIP download)](/assets/tutorials/R_tutorials.zip).</span>** All of them are extensively annotated with directions. If you have any problems loading and/or the software, please let us know immediately. We expect you to be familiar with all material presented in these tutorials prior to the first meeting on June 13. 
 
 If you are struggling with the installation and/or introductory tutorials, you can find additional instruction at [W3 Schools - R Introduction ↗](https://www.w3schools.com/r/r_intro.asp). Please review the material as needed. 
 

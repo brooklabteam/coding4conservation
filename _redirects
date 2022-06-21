@@ -3,3 +3,10 @@
 # Redirects from changing page URLs
 /mentor-profiles	/mentors
 /student-profiles	/students
+
+# Redirects from changing asset URLs
+/tutorials/*	/assets/tutorials/:splat
+/lectures-pdf/C4C-introduction.pdf	/assets/lectures/C4C-introduction.pdf
+/lectures-ppt/C4C-introduction.ppt	/assets/lectures/C4C-introduction.ppt
+/lectures-pdf/Data-and-Models.pdf	/assets/lectures/Data-and-Models.pdf
+/lectures-ppt/Data-and-Models.ppt	/assets/lectures/Data-and-Models.ppt
