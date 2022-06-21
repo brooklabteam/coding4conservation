@@ -11,6 +11,16 @@ Here are our 2022 mentors...
 </div>
 
 <div class="profile-card">
+	<img src="/assets/mentors/daniels,dominic.jpg" class="rounded float-start img-profile" />
+	<strong>Dominic Daniels</strong> is a Field Project Manager for Ekipa Fanihy in Madagascar, where he co-facilitates field missions for the sampling of Pteropus, Eidolon, and Rousettus bats. His side projects include bioacoustics sampling for insectivorous bats and GIS mapping. Dominic holds a B.S. in Conservation & Resource Studies and a B.A. in French from the University of California, Berkeley; and has previously worked for the Lincoln Park Zoo, the US Bureau of Land Management, and CAL FIRE.
+</div>
+
+<div class="profile-card">
+	<img src="/assets/mentors/fitzgerald,kendall.jpg" class="rounded float-start img-profile" />
+	<strong>Kendall Fitzgerald</strong> is a Field Project Manager with Ekipa Fanihy. She co-leads tri-monthly field missions with the team to carry out monthly capture and sampling of Madagascar fruit bats. She will also serve as an in-country facilitator for the new “Coding for Conservation” mentorship program for Malagasy students. Additionally, Kendall documents media for the lab through film, blogs and images. Kendall holds a Bachelor of Arts degree from UC Berkeley in Evolution, Ecology and Organismal Biology and she previously studied identification of subfossil sub-saharan African shrews as well as conducted field work in South Africa, Malawi and California.
+</div>
+
+<div class="profile-card">
 	<img src="/assets/mentors/gostic,katie.jpg" class="rounded float-start img-profile" />
 	<strong><a href="https://kgostic.github.io">Katie Gostic</a></strong> is a Computational Staff Scientist in Dr. Sarah Cobey’s lab in the Department of Ecology and Evolution at the University of Chicago. She received her AB in Ecology and Evolutionary Biology from Princeton, and a PhD in Biology from the University of California Los Angeles (UCLA) where she was advised by Dr. Jamie Lloyd-Smith. She received a Complex Systems Postdoctoral Fellowship from the James S. McDonnell Founation to study development of the adaptive immune repertoire to influenza viruses. Her research uses models and data collected from various scales (populations, individuals, or within-host) to study the emergence, evolution, and control of novel pathogens.
 </div>
