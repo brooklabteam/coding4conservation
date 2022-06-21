@@ -1,5 +1,5 @@
 ---
-title: "Coding 4 Conservation Syllabus"
+title: "Syllabus"
 layout: page
 permalink: /syllabus
 ---
