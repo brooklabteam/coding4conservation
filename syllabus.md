@@ -19,6 +19,7 @@ permalink: /syllabus
 **Week 2: Intro to simple statistics**
 * [Monday, June 27](https://uchicago.zoom.us/j/91835847493?pwd=UzFMSzZrN0UvdkVxWjlSZlRyeXA3QT09): Introduction to simple statistics  (**Kacie Ring**)
   * [Simple statistics tutorial](assets/tutorials/Simple_statistics/Simple_statisitics_tutorial.html)
+  * [Simple statistics Rmarkdown download](assets/tutorials/Simple_statistics/Simple_statisitics_tutorial.Rmd)
 * [Wednesday, June 29](https://uchicago.zoom.us/j/91835847493?pwd=UzFMSzZrN0UvdkVxWjlSZlRyeXA3QT09): Introduction to linear regression  (**Sophia Horigan**)
 * *Mentor/Mentee Goal: Explore individual datasets + Refine research questions*
 
