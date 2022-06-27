@@ -17,8 +17,9 @@ permalink: /syllabus
 * *Mentor/Mentee Goal: Define research questions for project*
 
 **Week 2: Intro to simple statistics**
-* [Monday, June 27](https://uchicago.zoom.us/j/91835847493?pwd=UzFMSzZrN0UvdkVxWjlSZlRyeXA3QT09): Linear regression and simple statistics lecture (**Kacie Ring / Sophia Horigan**)
-* [Wednesday, June 29](https://uchicago.zoom.us/j/91835847493?pwd=UzFMSzZrN0UvdkVxWjlSZlRyeXA3QT09): Linear regression and simple statistics tutorial (**Kacie Ring / Sophia Horigan**)
+* [Monday, June 27](https://uchicago.zoom.us/j/91835847493?pwd=UzFMSzZrN0UvdkVxWjlSZlRyeXA3QT09): Introduction to simple statistics  (**Kacie Ring**)
+  * [Simple statistics tutorial](/assets/tutorials/Simple_statistics/Simple_statisitics_tutorial.html)
+* [Wednesday, June 29](https://uchicago.zoom.us/j/91835847493?pwd=UzFMSzZrN0UvdkVxWjlSZlRyeXA3QT09): Introduction to linear regression  (**Sophia Horigan**)
 * *Mentor/Mentee Goal: Explore individual datasets + Refine research questions*
 
 **Week 3: Intro to mixed modeling**

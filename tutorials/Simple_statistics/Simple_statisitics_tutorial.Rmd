@@ -1,0 +1,1051 @@
+---
+title: "simple_statistics_tutorial"
+author: "Kacie Ring"
+date: "6/22/2022"
+output:
+  html_document:
+    theme: paper
+    highlight: tango
+---
+
+```{r setup, include=FALSE, message = FALSE, warning = FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
+
+
+#Important packages - if first time using use the functions below to install: 
+#install.packages("readr")
+#install.packages("ggplot2")
+#install.packages("tidyverse")
+#install.packages("knitr")
+#install.packages("car")
+#install.packages("multcomp")
+#remotes::install_github("lter/lterdatasampler")
+
+#load in packages using the library() function
+library(readr)
+library(ggplot2)
+library(tidyverse)
+library(knitr)
+library(car)
+library(multcomp)
+library(lterdatasampler)
+
+#read in our data! We will use the data we cleaned last week 
+
+#we will name our data c4c, if you are woking in Rproj, you do not need to set your working directory 
+ 
+c4c <- read.csv("Cleaned-C4C.csv",stringsAsFactors = F,header = T)
+
+```
+
+
+
+# Coding 4 conservation week 2 : Simple statistics 
+
+Welcome to week two! Today we will be using Rmarkdown to execute simple statistics, this module could be an entire class, but we are going to briefly review the topics below in a day: 
+
+Overview: 
+
+        1. Basic helpful functions in R 
+        2. Testing assumptions 
+        3. Comparing means 
+            3.1 T-tests
+            3.2 Non-parametric test
+            3.3 Anova
+
+**What is Rmarkdown?** Rmarkdown is a file type that allows users to save/execute their code into shareable reports. Read more about Rmarkdown with this [tutorial](https://rmarkdown.rstudio.com/lesson-1.html) 
+
+## Part 1: Basic helpful functions in R 
+
+####  R basics
+
+variable <- function(argument)
+
+
+##### List of useful functions to create and explore data structure
+
+**Basic mathematical functions for summary statistics**
+
+    + `sum()`
+    
+    + `mean()`
+    
+    + `min()`
+    
+    + `max()`
+    
+    + `sd()`
+    
+    + `median()`
+    
+    + `summary()`
+    
+**Functions to create & explore data structure** 
+   
+    + `c()` - concatenate function
+    + `:` - colon operator for sequence generation
+    + `seq()` - sequence generation
+    + `rep()` - replicate elements of vectors and lists
+    + `View()` - invoke a data viewer
+    + `length()` - length of an object
+    + `class()` - object class
+    + `head()` - return the first 6 rows of an object
+    + `tail()` - return the last last 6 rows an object
+    + `dim()` - returns the dimensions of an object 
+    + `nrow()` - number of rows
+    + `ncol()` - number of columns
+    + `str()` - display the structure of each column of an object
+    + `names()` - display the names of an object, typically the column names
+    + `nlevels()` - categorial levels within an object
+    + `cbind()` - combine objects by columns
+    + `rbind()` - combine objects by rows
+
+### Exercises 
+
+Let's learn about our dataframe using some if the functions we learned last week 
+
+```{r looking at the data}
+
+#view the top 6 rows 
+head(c4c)
+
+#structure
+str(c4c)
+
+#lets correct the variables (review from last week)
+
+c4c$Sex <- as.factor(c4c$Sex)
+c4c$Size<- as.factor(c4c$Size)
+c4c$Weight<- as.numeric(c4c$Weight)
+
+```
+
+It looks like there are N/As in our weight column/variable in our dataset. Let's remove the N/A values from that columns 
+
+```{r removing N/As}
+
+#use is.na() method
+c4c <- c4c[!is.na(c4c$Weight),]
+
+#use subset() method
+c4c <- subset(c4c, !is.na(Weight))
+
+#use tidyverse method
+
+c4c <- c4c %>% 
+  drop_na(Weight)
+
+```
+
+
+```{r basic statistics}
+# basic stats - lets get basic stats for the weight variable 
+
+var(c4c$Weight)
+mean(c4c$Weight)
+max(c4c$Weight)
+min(c4c$Weight)
+sd(c4c$Weight)
+median(c4c$Weight)
+range(c4c$Weight)
+quantile(c4c$Weight)
+
+# or just run summary()
+summary(c4c$Weight)
+
+```
+
+
+**Useful functions for plotting in base R.**
+Here are a list of useful functions for making plots in R. By using the ? in R you can figure out the details of these different plotting functions.
+
+1. plot() : Plot x and y against each other
+2. hist() : Make a histogram of your data
+3. scatterplot() : Make a scatter plot of x and y
+4. abline() : Add a straight line to your current plot
+5. lines() : Add more lines/data to your current plot
+6. curve() : Plot a function over some range
+7. boxplot() : Make a box plot to compare different groups of your data 8. densityPlot() : Fit a density kernel to your data
+9. pie() : Make a pie chart
+10. barplot() : Make a bar graph in R 11. mosaicplot() : Make a mosaic plot
+
+
+## Part 2: Testing assumptions 
+
+### 1. Violations of Assumptions
+
+One of our critical assumptions for one-sample and two-sample t-tests is that
+the distribution of the sample means is normal. We have learned that if the
+distribution of our sample is **normal** we are guaranteed that the distribution of
+our sample **means** will be normal. Additionally, we have learned that the Central
+Limit Theorem tells us that if our sample size is big enough, the distribution of
+our sample means will be normal even if the distribution of our sample (or the
+population from which we drew this sample) is non-normal. 
+However, it is often the case in ecology that our samples are very non-normal
+and the Central Limit Theorem does not apply. This may be because the data
+are strongly skewed or because there are outliers in the data. In this lab you
+will learn how to deal with non-normal data and data with extreme outliers.
+
+### 2. Testing for Normality 
+
+We first have to check whether our data are normal using the following qualitative and quantitative methods. 
+
+* **Histogram:** If the histogram is not "bell-shaped" this is your first
+indication that your data may be non-normal.
+
+* **QQplot:** If all data do not stay within the confidence band your data
+may be non-normal.
+
+* **Shapiro-Wilk Test:** A quantitative test that tells you whether your data
+are normal or not. $H_0$: Data are normal, $H_A$: Data are non-normal. If
+p < 0.05, reject your $H_0$ and conclude that the data are not normal; if p > 0.05, 
+"conclude" that your data are normal. Remember not to count on the results from
+this test alone, and always to visually examine a QQplot or histogram.
+
+**Checking normality with residuals**
+
+This allows us to check normality of more complicated relationships rather than just checking one variable at a time.
+
+### 3. Checking for outliers
+
+Outliers can drastically influence the results of t-tests and other parametric
+tests. It is always import to identify outliers before you begin your analysis.
+While there are formal methods for determining what constitutes an outlier, a
+simple method is to make a boxplot of your data. A boxplot will identify any 
+points that do not lie within a given range above or below the median of your
+data. This range can vary depending on how you build your boxplots, but typically
+the width of the boxplots is related to the first and third quartiles of your data. 
+In R, the default range is 1.5 times the distance between first and third quartiles.
+
+While sometimes outliers can be erroneous values (i.e. you measured something
+incorrectly) they often tell you something important about the population
+you are measuring. Therefore, **you cannot drop an outlier from your analysis** 
+**without having good reason to do so.** Good reasons could include measurement 
+error or an underlying difference between that individual and the rest of the 
+population. Dropping an outlier because it makes your life and the analysis easier is not a good 
+reason...though we all wish it was. However, it is good practice to run your analysis 
+with and without your outlier to determine if/how the outlier changes your results.
+
+### 4. Transformations
+
+When you **transform** your data you apply some function (often non-linear) to
+your data. Wait... why the heck can you do this? If you think about it, the scale
+that we use to measure things is completely arbitrary (think about Celsius vs
+Fahrenheit). We could just as easily measure things in a base 2 system and there
+would, in principal, be nothing wrong with that. If this helps, you can imagine
+that by transforming your data you are moving to an alien world where they measure 
+everything on a different scale (e.g. on a log scale). Here are some of the reasons 
+why we transform our data:
+
+* To make the data more normal
+* To make our variances more similar between groups
+* To reduce the influence of outliers
+* To make our data linear (we will see this in linear regression)
+
+#### 4.1 Choosing a transformation
+
+Here are some common transformations and the scenarios in which you may
+use them. The variable Y represents your original data and Y' represents your
+transformed data.
+
+* Consider **log transformation:** $Y' = \ln (Y)$ if...
+  + The measurements are ratios or products of variables
+  + The frequency distribution is right skewed
+  + The group having the larger mean also has the higher standard deviation
+  + The data span several orders of magnitude
+  + Note: If you have 0's in your data, you can do $Y' = \log{(Y + 1)}$
+  + In R, you can use the expression log(Y) to transform the data Y (remember that log(Y) gives the natural logarithm of Y)
+
+* Consider **Square-root transformation:** $Y' = \sqrt{Y}$ if...
+  + The measurements are count data
+  + The frequency distribution is right skewed
+  + Note: if you have negative numbers, you can't take the square root. You should add a constant to each number to make them all positive.
+  + In R, you can use the expression sqrt(Y) to transform the data Y
+
+* **Square transformations and antilog transformations:** $Y' = Y^2$ and $Y' = \exp Y$
+  + Use when your data are left skewed
+  + In R, you can use the expression Y^2 or exp(Y) to square transform or antilog transform the data Y, respectively.
+
+* **Arcsine transformation:** $Y' = \arcsin \sqrt Y$
+  + Useful when your data are proportions
+  + Note: Make sure your proportion data is represented as decimals (i.e. divide by 100)
+  + In R, you can use the expression asin(sqrt(Y)) to square-root arcsine transform the proportion data Y
+
+#### 4.2 After you transform your data
+
+Transformations are not magic. After you have transformed your data **you**
+**must retest all of your assumptions.** Moreover, transforming your data
+inherently changes your null hypothesis. For example, if I log transformed my
+number of flowers variable and then tested whether the means were different
+between the edge and the interior of a habitat patch, my $H_0$ becomes that there
+is no difference in the **log-mean.**
+
+**Any conclusions you make about your data have to be in terms of the transformation.** 
+For example, you would conclude that the log number of flowers on the edge was 
+significantly more than the log number of flowers in the interior.
+
+If a transformation does not fix your problem (e.g. make your data more normal, 
+reduce the heterogeneity of variance, etc.) you cannot proceed with your parametric 
+analysis. Fortunately, there are some non-parametric options that you can consider. 
+Remember that non-parametric does not assume that the data have any kind of distribution.
+
+### Determine normality of data
+
+To know what normal (gaussian) data should look like, we will generate a dataframe with a known normal distribution
+
+```{r how to visualize normality with histogram}
+
+# Generate randomly sampled data to visualize
+norm_samp = rnorm(1000, mean=21 , sd=3) #normal distribution 
+exp_samp = rexp(1000) #exponential distribution 
+
+# Visualization with a Histogram
+hist(norm_samp,
+     breaks=20, #20 bins is more practical, even though our sample size is 10x bigger. You get a sense of how many fall within bins that have a width that makes sense. This normal variable could be "age" for example 
+     col='darkgray',
+     ylab="Frequency",
+     main="Histogram of Normally Distributed Data") 
+
+hist(exp_samp,
+     breaks=20, #20 bins is more practical, even though our sample size is 10x bigger. You get a sense of how many fall within bins that have a width that makes sense. This normal variable could be "age" for example 
+     col='darkgray',
+     ylab="Frequency",
+     main="Histogram of Non-Normally Distributed Data") 
+
+```
+
+The `norm_samp` data looks normally distributed
+The `exp_samp` data does not look normally distributed
+
+#### Visualize with qqPlots
+```{r visualize normality with qqplot}
+
+# Visualization with a qqPlot
+
+# Now we’ll generate a qqplot using qqPlot function in car package.
+# Normal data
+qqPlot(norm_samp, main = "qqPlot of Normally Distributed Data") #qqplot function
+
+# Exponential data
+qqPlot(exp_samp, main = "qqPlot of Non-Normally Distributed Data") #qqplot function
+
+```
+
+For a qqplot, if all of your data points fall in between the dashed confidence bands you can be pretty confident that your data follow a normal distribution.
+
+For `norm_samp`, most data points (circles) fall within the confidence bands, so data is normally distributed. Although you can see data point 199 and data point 191 are close to being outliers (i.e. fall outside of dashed confident lines)
+
+For `exp_samp`, most data points (circles) fall outside the confidence bands, so data is not normally distributed. There are clear outlier data such as data points 268 and 744.
+
+
+### 3.2 Quantitatively with Shapiro-Wilk Test for Normality
+
+**The null hypothesis of this test is that your data are normally distributed.** The alternative hypothesis of this test is that your data are not normally distributed. Therefore, if this test gives us a p-value that is non-significant (i.e. p > 0.05) we can be reasonably confident that our data are normal.
+
+p < 0.05 you can reject the null, your variable is not normally distributed 
+p > 0.05 you fail to reject the null, your variable is normally distributed 
+
+**Example 1**. Let’s use the Shapiro-Wilk test to see if norm_samp is a normal distribution:
+
+```{r how to quantitatively test for normality}
+# EXAMPLE 1
+
+shapiro.test(norm_samp) #run a shapiro-wilk test on norm_samp
+
+#run a shapiro-wilk test on norm_samp
+```
+
+**How to interpret shapiro test results**
+
+1. state your p-value: p-value = 0.7614 (your p-value may be different, but it should be above p > 0.05)
+2. compare your p-value to significant p-value value: 0.7614 > 0.05
+3. look at your null hypothesis: data are normally distributed
+4. contextualize: My p-value of the shapiro-wilks test is 0.76, which is above a p-value of 0.05, hence I can be reasonably confident that my data are normal
+
+Remember p > 0.05 means you fail to reject the null hypothesis based on your data and tests
+
+This shapiro-wilk value makes sense since my histogram and qqPlot looked normally distributed
+
+
+**Example 2** Let’s use the Shapiro-Wilk test to see if exp_samp is a normal distribution:
+
+```{r shapiro wilks test on non normal data}
+# EXAMPLE 2
+shapiro.test(exp_samp) #run a shapiro-wilk test on exp_samp
+
+```
+
+How to interpret shapiro test results
+
+1. state your p-value: p-value < 2.2e-16 (your p-value may be different, but it should be below p < 0.05)
+2. compare your p-value to significant p-value value: 2.2e-16 < 0.05
+3. look at your null hypothesis: data are normally distributed
+4. contextualize: My p-value of the shapiro-wlk test is 2.2e-16, which is below a p-value of 0.05, hence I can be reasonably confident that my data are not normal
+
+Remember p < 0.05 means you reject the null hypothesis based on your data and tests
+
+This shapiro-wilk value makes sense since my histogram and qqPlot looked not normally distributed
+
+
+**Once we have determined if our data are normal, then we can determine an appropriate statistical test to compare means of our data**
+
+
+## Part 3: Comparing means  
+  
+
+### 3.1.1 One sample t-test  
+  
+When we want to ask a question about the mean of a sample, but we do not know the true variance of the population (i.e. we have to estimate the variance from the sample) we need to use a one sample t-test. The one-sample t-test has the following assumptions:  
+  
+1. Assumes the test variable (e.g. weight of leemurs, etc.) has a *normal distribution*  
+2. Assumes that the observations represent a *random sample* from the population  
+  
+The hypotheses for a two-sided one sample t-test are: 
+  
+$H_0 : \mu = a$  
+$H_A : \mu \neq a$  
+  
+where $a$ is your hypothesized mean.  
+  
+To test these hypotheses, calculate a t statistic using the following formula:  
+  
+$t = \frac{\bar Y - a}{s/\sqrt{n}}$  
+  
+where $\bar Y$ is the sample mean, $s$ is the standard deviation of your sample, and n is your sample size.  
+  
+The resulting t-statistic has $n-1$ degrees of freedom (df). You can test your null hypothesis in three different ways:   
+  
+1. Get the critical t-value $(t_{\alpha(2)})$ with $n-1$ df for $\alpha = 0.05$ and compare it to your calculated t-value. Reject your null hypothesis if the absolute value of your t-value is greater than the absolute value or the critical t-value.  
+2. Calculate the 95% confidence interval with the equation $\bar Y \pm t_{\alpha(2),df}SE_{\bar Y}$ and determine if $a$ (your hypothesized mean) is in the interval. Reject your null hypothesis if $a$ is not in the 95% CI.    
+3. Find the p-value associated with your critical t-value (via R or a t-table with $n-1$ df) and determine if it is less than your predetermined $\alpha$. Reject $H_0$ if $p<\alpha$  
+
+R code:
+
+```{r one sample t-test}
+
+# t.test(DATASET$VARIABLE, mu=MEAN) 
+
+```
+
+### 3.1.2 Paired t-test  
+  
+If you want to compare the means between two groups and each data point in one group is uniquely paired with a data point in another group you can use the paired t-test. Take the difference between each pair of data points and then perform a one sample t-test with $H_0 : \mu_d = 0$. Assumptions:  
+  
+1. Assumes that the observations from each group represent a *random sample* from the population.  
+2. Assumes that the *difference* of the two observations follow a *normal distribution*.  
+
+R code
+
+```{r paired- t-test}
+
+#first check for normality 
+#dataset$difference <- (dataset$variable1 - dataset$variable2)
+#hist(dataset$difference)
+#shapiro.test(dataset$difference)
+
+
+#t.test(dataset$variable1 - dataset$variable2, paired = TRUE)
+
+```
+
+### 3.1.3 Two-sample t-test  
+  
+The two-sample t-test compares whether the means of two groups are significantly different from each other. This test has the following assumptions:  
+  
+1. Assumes that the observations from *each group* represent a *random sample* from the population.  
+2. Assumes that the observations follow a *normal distribution*.  
+3. Assumes that the observations from the two groups have *the same variance*.    
+  
+If we have two groups called group 1 and group 2, the two-sided hypothes for the two-sample t-test are:  
+  
+$H_0 : \mu_1 = \mu_2$
+
+$H_A : \mu_1 \neq \mu_2$  
+  
+Before we can test these hypotheses we need to ensure that our assumptions are met. You can test the normality assumption using any of the procedures that you already know (e.g. qqplots or the Shapiro-Wilk statistic). To test the homogeneity (equal) of variance assumption we will use something called *Levene's Test*. The *null hypothesis* of the Levene's test is that the variance between the two groups are equal. The *alternative hypothesis* is that they are not equal.  
+If we fail to reject the *null hypothesis* of the Levene's test we can pool our variances and use a standard two-sample t-test. We would compute this t statistic using the following equations:  
+  
+$SE_{\bar Y_1 - \bar Y_2} = \sqrt{s^2_p(\frac{1}{n_1}+\frac{1}{n_2})}$  
+  
+where  
+  
+$s^2_p = \frac{df_1s^2_1+df_2s^2_2}{df_1+df_2}$  
+  
+is the pooled sample variance (described in your book). With these equations we can calculate the t statistic:  
+  
+$t = \frac{\bar Y_1 - \bar Y_2}{SE_{\bar Y_1 - \bar Y_2}}$  
+  
+where this t statistic has a df of $n_1 + n_2 - 2$.  
+  
+If we reject the *null hypothesis* of the Levene's test we use something called *Welch's t-test*. We calculate the t statistic with a similar equation as equation 7, but the denominator is changed to account for the different variances between the two groups. Moreover, the df is also calculated a bit differently. For the most part, you can ignore these technicalities. You just need to understand that a different test is used when between group variances are unequal. If possible, we would prefer our two groups to have equal variance because our statistical test will have more power.  
+Similar to the one-sample t-test, you can draw conclusions using one of the equivalent methods:  
+  
+1. Get the critical t-value $(t_{\alpha(2)})$ with $n_1 + n_2 - 2$ df (assuming equal variance) for $\alpha = 0.05$ and compare it to your calculated t-value. Reject your null hypothesis if your absolute value of your t-value is greater than the absolute value of the critical t-value.  
+2. Calculate the 5% confidence interval via the equation $\bar Y_1 - \bar Y_2 \pm SE_{\bar Y_1 - \bar Y_2}t_{\alpha(2),df}$ and determine if 0 is in the interval. Reject your null hypothesis if 0 is not in the 95% CI.  
+3. Calculate the p-value associated with your calculated t-value (via R) and determine if it is less than your predetermined $\alpha$. Reject $H_0$ if $p<\alpha$.  
+
+
+R code
+
+```{r two-sample t-test}
+# Two-sampled t-test with unequal variances using the Welch's t-test
+#t.test(GROUP1$VARIABLE, GROUP2$VARIABLE, var.equal = FALSE)
+
+# One-sided test: Mean is significantly less of Group 1 than mean of Group 2
+# t.test(GROUP1$VARIABLE, GROUP2$VARIABLE, alternative = "less, var.equal = FALSE)
+```
+
+**Resources for more organized and visually appealing Rmarkdown documents**
+
++ Rmarkdown guide slides
+https://commonmark.org/help/tutorial/02-emphasis.html
+
++ Rmarkdown cookbook
+https://bookdown.org/yihui/rmarkdown-cookbook/
+
+
+### Part 3.1: Exercise 
+
+Our parasite data is not normal so we will not be using a ttest to compare parasite load means. Instead we will use data from the lterdatasampler package in R.
+
+**Dataset description**
+
+*hbr_maples*: Sugar maple seedlings at Hubbard Brook Experimental Forest (New Hampshire) in calcium-treated and reference watersheds in August 2003 and June 2004 
+
+More info found [here] (https://lter.github.io/lterdatasampler/articles/hbr_maples_vignette.html)
+
+Citation: Horst A, Brun J (2022). lterdatasampler: Educational dataset examples from the Long Term Ecological Research program. R package version 0.1.0, https://github.com/lter/lterdatasampler.
+
+```{r view data}
+# The data we will use for this exercise is preloaded into R! Let's take a look at it using glimpse
+
+#using glimpse function to explore the data 
+glimpse(hbr_maples)
+
+str(hbr_maples)
+
+```
+
+First, let’s create an exploratory visualization of the data using ggplot. Is there evidence for differences in maple seedling height (millimeters) between the calcium-treated (W1) and untreated (reference) watersheds? We can visualize out data using a boxplot 
+
+
+```{r visualize with a boxplot}
+
+ ggplot(data = hbr_maples, aes(x = watershed, y = stem_length)) +
+  geom_boxplot(aes(color = watershed, shape = watershed), #adds color based on watershed
+               alpha = 0.8, #makes color transparent
+               width = 0.5) +
+  geom_jitter(         
+    aes(color = watershed), #geom_jitter adds data points to the boxplots 
+    alpha = 0.5,
+    show.legend = FALSE,
+    position = position_jitter(width = 0.2, seed = 0)
+  ) +
+  labs(
+    x = "Watershed",
+    y = "Stem length (millimeters)",
+    title = "Stem Lengths of Sugar Maple Seedlings",
+    subtitle = "Hubbard Brook LTER"
+  ) +
+  facet_wrap(~year) + #Facetwrap creates two side-by-side plots to visulaize differences between years 
+  theme_minimal()
+
+```
+
+
+
+In both years of the study (2003 and 2004) it appears that seedling heights shift toward longer stem lengths in the calcium-treated watershed (W1), compared to the untreated watershed.
+
+
+#### Checking our assumption for a two-sample ttest 
+
+Is the data normal? Let's look at the histogram and qqplot and then run a shapir.wilks test 
+
+```{r checking normality with histogram}
+
+#simple histogram to view the distribution of our Y  variable using geom_hist()
+ggplot(hbr_maples, aes(x = stem_length)) + 
+  geom_histogram()
+
+```
+
+
+
+```{r fancier histogram}
+
+#lets make our histogram  a little bit fancier, adding titles, color coding watershed
+
+ggplot(hbr_maples, aes(x = stem_length, color = watershed, fill = watershed)) + 
+  geom_histogram(alpha = 0.5, position = "identity") +
+  geom_density(aes(color = watershed), size = 1) +
+   labs(
+    x = "Stem Length (mm)",
+    y = "Frequency",
+    title = "Distribution of Sugar Maple seedling stem lengths",
+    subtitle = "Hubbard Brook LTER"
+  ) +
+  theme_minimal()
+ 
+
+```
+
+**Next assumption**: The two samples have equal variance 
+
+Having explored distributions in the histograms above, we can conclude that the data are approximately normal. As a next step, we will use var.test() to test for equal variances of 2004 seedling height (stem_length, in millimeters) observations in each watershed.
+
+Null and alternative hypotheses:
+
+$H_0$: Ratio of variances is equal to 1 (equal variances)'
+$H_A$: Ratio of variances is not equal to 1 (unequal variances)
+
+Test this using  the tidyverse method 
+
+```{r equal variance}
+
+hbr_maples %>% 
+  filter(year == 2003) %>% #only selects obsevations from 2003
+  var.test(stem_length ~ watershed, data = .) #var.test tests for equal variance 
+
+hbr_maples %>% 
+  filter(year == 2004) %>% #only selects observations from 2004
+  var.test(stem_length ~ watershed, data = .) #var.test tests for equal variance 
+
+```
+
+With a p-value > 0.05, we fail to reject the null hypothesis that the ratio of the variances of the two watersheds is equal, and continue with the assumption of equal variances.
+
+Now, we’ll do a two-sided two-sample t-test using t.test() to determine if there is a statistically significant difference in seedling height between the watersheds (using only 2004 observations).
+
+
+#### Compare means
+
+Null and alternative hypotheses:
+
+$H_0:𝜇1=𝜇2$
+
+$H_A:𝜇1≠𝜇2$
+
+By default, t.test() will use a Welch t-test that does not assume equal variances (default argument is var.equal = FALSE). We set var.equal = TRUE based on the outcome of our F-test above:
+
+```{r t-tests}
+
+hbr_maples %>% 
+  filter(year == 2003) %>% 
+  t.test(stem_length ~ watershed,
+         var.equal = TRUE,
+         data = .)
+
+hbr_maples %>% 
+  filter(year == 2004) %>% 
+  t.test(stem_length ~ watershed,
+         var.equal = TRUE,
+         data = .)
+```
+
+Based on the outcome of these t-test, we can reject the null hypothesis and conclude that mean seedling heights in the reference watershed (no calcium treatment) differ significantly from those in the calcium-treated watershed (W1) in both 2003 and 2004. 
+
+
+### 3.2 Non parametric tests 
+
+Non-parametric tests make no assumptions about the distributions of the data
+and thus are robust to violations of normality. **When our data are not normal**
+**and we can't fix them with a transformation we typically turn to non-parametric**
+**tests.** You typically do non-parametric tests on your untransformed data. Transforming your data will not change the results of a non-parametric test, but it will change your interpretation of the results. Who wants to talk about medians of square-root transformed data when you don't have to? Keep in mind that non-parametric tests can be used with data that are normally distributed. **However, parametric tests that assume normality have more power, so you should use those if your data are normal.**
+
+We are only going to consider one non-parametric test in this lab: the
+Mann-Whitney U-test, aka **Wilcoxon Test**. These tests can be used in place of
+a two-sample t-test when your assumptions of normality are not met. However,
+there are still some assumptions for the Mann-Whitney U-test:
+
+* Assumes both samples are random samples from their populations
+* Assumes that the distributions of the two groups have similar shapes (i.e.
+similar variance and similar skew!). I
+
+You have already learned about these tests in class. They rank your data
+(e.g. smallest value has a rank of 1 and the largest value has a rank of n) and
+then look at the distributions of these ranks. Note that while you can make
+similar conclusions with non-parametric tests, the $H_0$ and $H_A$ are not
+specified in terms of the mean, but rather whether the distributions
+of the two groups differ in central tendency (i.e. the median).
+
+The null hypothesis for a Mann-Whitney U-test is:
+
+$H_0$ : Median of group 1 equals the median of group 2 
+$H_A$ : Median of group 1 does not equal median of group 2
+
+
+#### 3.2.1 Mann-Whitney U-test/Wilcoxon Test in R
+
+
+Now let's walk through an example of how to do the Mann-Whitney U-test in R.
+We are going to use our parasite data! For this analysis, we are going to see if there is a sinificant difference in male and femal parasite load in infected individuals 
+
+
+##### First data wrangling! 
+
+```{r data wrangling}
+
+c4c_pos <- c4c %>%
+  filter(Para > 0) %>% #creating a subset with only infected individuals 
+   mutate(log_para = log(Para), # adding  a column with square root transformation
+          sq_para = sqrt(Para)) # adding  a column with log transformation
+
+```
+
+##### Visualizing  the data, histograms and boxplot 
+
+**Boxplot** first 
+
+```{r boxplot}
+#boxplot with untransformed data
+
+boxplot(c4c_pos$Para~c4c_pos$Sex,
+     main="Parasite load in Males and Females",
+     xlab="Sex",
+    ylab ="Parasite load")
+
+#boxblot with log tranformed parasite burden 
+boxplot(c4c_pos$log_para~c4c_pos$Sex,
+    main="Parasite load in Males and Females",
+     xlab="Sex",
+    ylab ="Log Parasite load")
+
+```
+
+**Histograms**, lets see if the data look normally distributed
+
+
+```{r histogram}
+
+par(mfrow=c(3,1)) #sets up your plot (3 x 1)
+
+#histogram with untransformed Y
+hist(c4c_pos$Para ,probability = T,
+     col = "plum1",
+     main="Parasite load distribution",
+     xlab="Parasite load")
+
+#histogram with log transformed Y
+hist(c4c_pos$sq_para ,probability = T,
+     col = "azure1",
+     main=" Square root tranformed parasite distribution",
+     xlab="Parasite load")
+
+#histogram with square root transformed Y
+hist(c4c_pos$log_para, probability = T,
+     col = "pink",
+     main="Log transformed parasite load distribution",
+     xlab="Parasite load")
+
+```
+
+```{r testing normality and equal variance}
+
+#qqPlot
+qqPlot(c4c_pos$log_para)
+
+#shapiro test
+shapiro.test(c4c_pos$log_para) 
+#p-value = 7.727e-07, we reject  the null that our data is normally distributed. 
+```
+
+Since our data is not normal after transformation, we will go back to using the un-transformed data  for a non-parametric test. But we also need to check for equal variance. We can do that with a levenes test!
+
+```{r}
+#Run Levene's Test; (y~x) or (y,x)
+leveneTest(Para~Sex, data = c4c_pos)
+```
+
+
+Levene's Test gives p= 0.98, so we cannot reject the null hypothesis. This is strong evidence that the variances of these distributions are not different. We therefore can use a Mann-Whitney U-test which assumes that the distributions have the same shape.
+
+
+```{r wilcoxin.test}
+# Run a Mann-Whitney U-test/Wilcoxon Test 
+wilcox.test(Para ~ Sex, data=c4c_pos)
+```
+
+Based on the above results we can conclude that males and females do not have signficantly different median parasite loads. Note that the W statistic (or the U statistic) is
+analogous to a t or Z statistic: it comes from a distribution from which you can
+determine its associated p-value.
+
+We can also find the medians of each group:
+
+```{r look at medians}
+
+median(c4c_pos$Para[c4c_pos$Sex == "m"], na.rm=T) # na.rm is removing NAs
+median(c4c_pos$Para[c4c_pos$Sex == "f"], na.rm=T) # na.rm is removing NAs
+```
+
+From this, we can see that males actually have a higher median Parasite burden than females do, but the difference is not significant. 
+
+
+### 3.3 Anova 
+
+#### 3.3.1 Analysis of Variance (ANOVA)
+We have now seen many different ways to compare the means of two groups. However, what if we have more than two groups? Unfortunately, we can’t just use a bunch of pairwise t-tests because this would inflate our Type I (\alpha) error. ANOVA is the answer. It gives us a robust and powerful away to determine whether the means of two or more groups are different from each other. There are a couple terms that we need to familiarize ourselves with before we start using ANOVAs. 
+
++ **Factor**: Our variable of interest that we are changing. For example, if we were comparing the mean hearing frequency between different felines the factor would be feline and it would have different levels (i.e lion, tiger, and puma). 
+
++ **Level/group/treatment**: The levels of a factor are the groups that we are comparing. For example, the levels of the factor feline are lion, tiger, and puma.
+
+#### 3.3.2 Assumptions of the ANOVA
+Here are the assumptions of the ANOVA and how we test them:
+
+1. Measurements from each group (level) represent a random sample from the corresponding population 
+
+  + Ensure that this assumption is met with your experimental design
+
+2. Our response variable is normally distributed for each population 
+
+  + Test this assumption with a Q-Q plot and a Shapiro-Wilk test of the residuals
+
+3. The variance is the same in all k populations (homogeneity of variance) 
+
+  + Test this assumption with a residual plot or a Levene’s Test. We will talk about how to test these assumptions in section 2.2.
+
+
+#### 3.3.3 Hypotheses of the ANOVA
+If we are comparing the means of k populations, the $H_0$  and $H_A$  of a one-way ANOVA are:
+
++ $H_0$ : The mean of group 1 = mean of group 2 = mean of group k
+(μ_1= μ_2 = ... =μ_k)
+
++ $H_0$ : At least one mean across the groups (μ_j) is not equal
+
+These hypotheses assert that any observation i from group (level) j, y_ij, can be calculated using the following equation: y_ij=μ_j+ϵ_ij
+
+Where ϵ_ij is an error associated with the i measurement from group j and is normally distributed with mean 0 and some variance σ2ϵ. The variance σ2ϵ is constant for all levels. This is just fancy notaiton for restating our two assumptions: 
+
+  1) Normality 
+  2) Equality of Variance
+
+We could equivalently state the null hypotheses for the ANOVA as
+
+$H_0$ :α_1 = α_2 =....= α_j =...= α_k =0
+
+$H_A$ :At least one α_j is not equal to 0
+
+In this case, α_j, is just the deviation of group j from the grand mean μ. The grand mean is the mean of all assumptions pooled across groups. If all these deviations are 0, there is no difference between our means. These hypotheses assert that any observation i from group (level) j, y_ij, can be calculated using the following equation
+y_ij=μ+α_j+ϵ_ij
+
+Equation [eq:effects] and equation [eq:means] are equivalent.
+
+If we reject our $H_0$, we have no information about which means are different, just that at least one is different.
+
+**Resources for more R ANOVA tutorials**
+
++ ANOVA blog
+https://medium.com/@StepUpAnalytics/anova-one-way-vs-two-way-6b3ff87d3a94
+
++ Introduction to ANOVA video
+https://www.youtube.com/watch?v=FLyCZnjuJVA&feature=youtu.be
+
+
+#### Part 3 EXERCISES 
+
+**Is there a significant difference in adult salamander weight among the years 2010-2019?**
+
+We are going to use another dataset provided by the lterdatasampler pacakge in R. 
+
+**Dataset description**
+
+The and_vertebrates dataset contains length and weight observations for Coastal Cutthroat Trout and two salamander species (Coastal Giant Salamander, and Cascade Torrent Salamander) in previously clear cut (c. 1963) and old growth coniferous forest sections of Mack Creek in HJ Andrews Experimental Forest, Willamette National Forest, Oregon. 
+
+Citation: Gregory, S.V. and I. Arismendi. 2020. Aquatic Vertebrate Population Study in Mack Creek, Andrews Experimental Forest, 1987 to present ver 14. Environmental Data Initiative. https://doi.org/10.6073/pasta/7c78d662e847cdbe33584add8f809165
+
+**Hypotheses**
+
++ $H_0$: α_2010=α_2011=α_2012...=α_2017
+
++ $H_A$: At least one α_j is not equal to 0
+
+Always make sure you know what your factor and its levels are before beginning an ANOVA. Otherwise, things can get really confusing. Okay, let’s begin the analysis.
+
+First, lets load in the dataset **and_vertebrates** and look at it to get a sense of what’s going on.
+
+```{r data wrangling again}
+##read in your data and check out how its structured 
+
+str(and_vertebrates)
+
+
+#lets create a subset with only cutthroat trout and 3 levels on unit type (cascade, pool, and channel). We also want to only include adult salamanders in this analysis,adult mass ranges from 22 to 114 g.
+
+new_vert <- and_vertebrates %>% 
+  filter(species == "Coastal giant salamander",  #selects only salamanders
+         unittype %in% c("C", "P", "SC"),
+         year > 2010,
+         weight_g > 22) %>%
+  drop_na(unittype) #drops NAs 
+
+new_vert$year <-as.factor(new_vert$year)
+#let's look at the structure of our subset
+str(new_vert)
+
+```
+
+
+Now lets visualize the data with a boxplot:
+
+```{r boxplot again}
+ggplot(data = new_vert, aes(x = year, y = weight_g, fill = year)) +
+  geom_boxplot() +
+  labs(
+    x = "Unit type",
+    y = "Weight (grams)",
+    title = "Adult coastal giant salamander w among stream habitats",
+    subtitle = "Mack Creek in HJ Andrews Experimental Forest, Willamette National Forest, Oregon"
+  ) +
+  theme_minimal()
+
+```
+
+Notice that in general, the variances of each level seem pretty comparable in the boxplot. Moreover, the data don’t look like they violate normality too severely, though there is one outlier.
+
+
+#### Checking our assumptions
+To test our assumption we need to look at the **residuals** of our ANOVA model. Residuals are defined as:$eij=yij−yj¯$
+
+In words, this says the residual eij is equal to the *observed* value (yij) minus the *predicted* value $(ŷ ij−y¯js$)
+
+Residuals are useful for testing our assumptions because they are estimates of our error terms ϵij. Therefore we should expect that our residuals should be normally distributed and that they should have approximately equal variances.
+
+**For more info on residuals:** http://www.statsmakemecry.com/smmctheblog/confusing-stats-terms-explained-residual.html
+
+To get our residuals, we first need to run our ANOVA. We will use the funciton **aov()** which is very similar in terms of output and structure to lm(), but will calculate ANOVA results instead of regression results!
+
+```{r retreive residuals}
+# HINT: aov(y ~ x, data = dataset)
+salamander <- aov(weight_g~as.factor(year), data=new_vert) #run the ANOVA
+par(mfrow=c(2,2)) # places 2 plots on 1 output view
+plot(salamander) #look at the diagnostic plots; focus on the first two plots (fitted vs residuals & QQ plot)
+
+```
+
+While all the plots on this graph are useful, the two that we will focus on are the plots in the first row. 
+
+1. The first plot is called a residual plot and it is used to test our **Homogeneity of Variance (homoskedasticity)** assumption (i.e. plot titled *“Residuals vs. Fitted”*). It plots the values predicted by our ANOVA model (see equation [eq:means] and [eq:effects]) against the residuals of the model. If the residuals fall along the zero line for each treatment and don’t have any distinct pattern then we can be pretty confident that our assumption of equal variances is met. If this plot shows a distinct pattern, such as a wedge shape, there is good evidence that our assumptions of homogeneity of variance are not met and we might want to try a transformation.
+
+2. The other plot that is useful in is the qqplot of the residuals (i.e. plot titled *“Normal Q-Q”*). You have already seen a lot of the qqPlot so you know that if it deviates from a straight line the residuals likely do not follow a normal distribution. This would violated the **normality assumption** of the ANOVA.
+
+We have run the ANOVA model! Be warned, we cannot interpret the results until we check the residuals! R has been incredibly helpful and already calculated the residuals for us. Now our residuals are saved in the variable res. With this done, let’s check some of our assumptions.
+
+**Normality**: Run a Shapiro-Wilk test on res.
+
+```{r normality of residuals}
+
+par(mfrow=c(1,1)) # resets output view
+
+res <- salamander$residuals #retrieve the residuals
+
+# Tool 1 for checking normality
+hist(res)
+
+# Tool 2 for checking normality
+qqPlot(res) 
+
+# Tool 3 for checking normality
+
+shapiro.test(res) ## W = 0.97056, p-value = 0.0006311, not normal! 
+
+```
+
+Time to transform and retest all our assumptions  
+
+```{r transform Y variable}
+
+new_vert$log_weight <- log(new_vert$weight_g)
+
+
+#retest all the assumptions 
+salamander_2 <- aov(log_weight~as.factor(year), data=new_vert) #run the ANOVA
+par(mfrow=c(2,2)) # places 2 plots on 1 output view
+plot(salamander_2) #look at the diagnostic plots; focus on the first two plots (fitted vs residuals & QQ plot)
+
+par(mfrow=c(1,1)) # resets output view
+
+```
+
+```{r retest assumptions}
+
+res2 <- salamander_2$residuals #retrieve the residuals
+
+# Tool 1 for checking normality
+hist(res2)
+
+# Tool 2 for checking normality
+qqPlot(res2) 
+
+# Tool 3 for checking normality
+shapiro.test(res2) ## W = 0.99125, p-value = 0.328, p > 0.05, our data is  normal!
+
+```
+P-value (0.328) > 0.05 so we cannot reject the null; suggests that the data are normal. Now lets check our next assumption.
+
+**Homogeneity of Variance:** Run a Levene’s Test on the stacked data just like you have been doing for the last few weeks. I get a p-value of 0.08664.
+```{r retest assumptions variance}
+leveneTest(log_weight~as.factor(year), data = new_vert) # F value = 1.7661 , 0.08664
+```
+
+P-value (0.08664) > 0.05, so the variances are equal!
+
+#### Analyzing the ANOVA
+Once we have confirmed that our assumptions are met we can analyze the ANOVA. For the hand washing data, we met both our assumptions of normality and homogeneity of variance, so we can analyze the model.
+
+```{r anova}
+# we actually already ran the anova when we created the residuals as a reminder we did it with:
+# HINT: aov(y ~ x, data = dataset)
+salamander_2 <- aov(log_weight~year, data=new_vert) 
+#So now we just need to get the results with:
+summary(salamander_2)
+```
+
+As described in class, this table contains all of the information that was required to run the ANOVA. We see that we obtained an F-value of 4.049 and a p-value (0.000193) less than 𝛼=0.05 allowing us to reject the null hypothesis and conclude that there has been a significant difference in adult salamander weight in at least one year from 2010 to 2019.
+
+#### Post-hoc Comparisons
+We just concluded from the above ANOVA that at least one of the means differ, but we often want to see which groups actually differ. We know we can’t do a bunch of t-tests because that will inflate our Type I error rate. We are instead going to use a method called a **Tukey-Kramer** test, which controls our Type I error rate. Here are some important notes about the Tukey-Kramer test:
+
++ The Tukey-Kramer test assumes that you have already run an ANOVA and rejected your null hypothesis
+
++ The Tukey-Kramer test does pairwise comparisons for all the groups we are testing and controls the family-wise Type I error rate so it is at most 𝛼=0.05 (it could be less).
+
++ When your ANOVA is unbalanced (unequal sample sizes in each group), the Tukey-Kramer test is conservative, meaning that the family-wise Type I error is less than 𝛼 and it is harder for us to reject the null.
+
++ The Tukey-Kramer test makes all of the same assumptions as the ANOVA
+
+To run a Tukey-Kramer test for our hand-washing ANOVA
+```{r post hoc}
+# HINT: TukeyHSD(aov_model)
+
+TukeyHSD(salamander_2)
+
+```
+
+A fancier way of doing this:
+```{r fancier post hoc}
+# Use the function glht in the multcomp package
+
+# HINT: glht(ANOVA_MODEL, linfct = mcp(FACTOR = "Tukey)
+?glht() # you'll see you need to have a factor for your mcp(argument)
+
+
+Post_hoc <- glht(salamander_2, linfct = mcp(year = "Tukey")) # if year is not a factor when you ran the salamander_2 anova, the glht() will not work
+
+summary(Post_hoc) 
+
+confint(Post_hoc) # shows your lower and upper CI bounds 
+cld(Post_hoc) #compact letter display of Tukey groups
+
+plot(Post_hoc, main = "Fig 1: 95% confidence level", cex.axis = .5) #confidence intervals plotted
+# (has a different letter and CIs don't overlap with 0 and p-values significant)
+
+```
+
+
+The plot of the confidence intervals generated from the Tukey-Kramer test for every pairwise combination of the groups. To interpret the table, notice that we see every pairwise combination of the levels of our factor. For each of these pairs, the Tukey-Kramer test has run a two-sample t-test and controlled for the family-wise Type I error. 
+
+It is also really useful to look at the letters at the bottom of the output. If the levels within your  factor do not share a letter, they are significantly different..
+
+Similarly, the Fig 1 displays the 95% family-wise CIs for each pairwise comparison. If the interval does not overlap with 0, we can conclude that the levels are different. 
+
