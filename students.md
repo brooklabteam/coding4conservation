@@ -58,7 +58,7 @@ Here are some profiles about the students in the 2022 cohort, and their projects
 </div>
 
 <div class="profile-card">
-	<!-- <img src="/assets/students/NAME-GOES-HERE.jpeg" class="rounded float-start img-profile" /> -->
+	<img src="/assets/students/ranaivoandriamanantena,tonisoatabihamalala.jpg" class="rounded float-start img-profile" />
 	<strong>Tonisoa Tabihamalala Ranaivoandriamanantena</strong> is a PhD student in Life Sciences and the Environment at the University of Antananarivo. Tonsioa’s project focuses on the reintroduction of two of Madagascar’s most threatened baobab species: Adansonia perrieri and Adansonia suarezensis. This study aims to evaluate baobab trait variations related to fruits, seeds and seedlings in order to aid future species improvement, restoration and conservation. Tonisoa holds a Master’s in Plant Biology from the University of Antananarivo and is also a project manager for Madagasikara Voakajy. He is also a National Geographic grant recipient for his project “Fruits characteristics and seeds quality production of Adansonia perrieri and Adansonia suarezensis baobabs”.
 </div>
 
