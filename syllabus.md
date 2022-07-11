@@ -24,7 +24,7 @@ permalink: /syllabus
    * [Linear regression lecture](/assets/lectures/C4C_LinearRegression_2022.pdf)
    * [Linear regression tutorial](/assets/tutorials/C4C-LinearRegression.zip)
 * *Mentor/Mentee Goal: Explore individual datasets + Refine research questions*
-  * [Please fill our this contract as a mentor/mentee pair by Friday, July 8!](https://airtable.com/shrVXHoWCjT5ieg66)
+  * [Please fill our this contract as a mentor/mentee pair by Friday, July 8, 2022!](https://airtable.com/shrVXHoWCjT5ieg66)
 
 **Week 3: Intro to mixed modeling**
 * [Monday, July 11](https://uchicago.zoom.us/j/99896661366?pwd=UkFCeWwzMC81enZkNUZUbDk4dThHZz09): Intro to mixed modeling lecture (**Emily Ruhs / Dave Klinges**)
