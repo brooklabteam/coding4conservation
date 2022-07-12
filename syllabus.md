@@ -30,6 +30,7 @@ permalink: /syllabus
 * [Monday, July 11](https://uchicago.zoom.us/j/99896661366?pwd=UkFCeWwzMC81enZkNUZUbDk4dThHZz09): Intro to mixed modeling lecture (**Emily Ruhs / Dave Klinges**)
   * [Mixed Models (zip)](/assets/lectures/C4C-Mixed-Models.zip)
 * [Wednesday, July 13](https://uchicago.zoom.us/j/99896661366?pwd=UkFCeWwzMC81enZkNUZUbDk4dThHZz09): Intro to mixed modeling lecture tutorial (**Emily Ruhs / Dave Klinges**)
+  * [Mixed Models Part 2 (zip)](/assets/tutorials/C4C-Mixed-Models-Part2.zip)
 * *Mentor/Mentee Goal: Outline plan for research analyses on independent work*
 
 
