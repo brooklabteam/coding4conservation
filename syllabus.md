@@ -28,6 +28,7 @@ permalink: /syllabus
 
 **Week 3: Intro to mixed modeling**
 * [Monday, July 11](https://uchicago.zoom.us/j/99896661366?pwd=UkFCeWwzMC81enZkNUZUbDk4dThHZz09): Intro to mixed modeling lecture (**Emily Ruhs / Dave Klinges**)
+  * [Mixed models lecture](/assets/lectures/C4C-Mixed-Models.pdf)
   * [Mixed models tutorial (zip)](/assets/tutorials/C4C-Mixed-Models.zip)
 * [Wednesday, July 13](https://uchicago.zoom.us/j/99896661366?pwd=UkFCeWwzMC81enZkNUZUbDk4dThHZz09): Intro to mixed modeling lecture tutorial (**Emily Ruhs / Dave Klinges**)
   * [Mixed models part 2 lecture](/assets/lectures/C4C-Mixed-Models-GLMM.pdf)
