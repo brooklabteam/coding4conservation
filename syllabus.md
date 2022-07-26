@@ -29,10 +29,10 @@ permalink: /syllabus
 **Week 3: Intro to mixed modeling**
 * [Monday, July 11](https://uchicago.zoom.us/j/99896661366?pwd=UkFCeWwzMC81enZkNUZUbDk4dThHZz09): Intro to mixed modeling lecture (**Emily Ruhs / Dave Klinges**)
   * [Mixed models lecture](/assets/lectures/C4C-Mixed-Models.pdf)
-  * [Mixed models tutorial (zip)](/assets/tutorials/C4C-Mixed-Models.zip)
+  * [Mixed models tutorial](/assets/tutorials/C4C-Mixed-Models.zip)
 * [Wednesday, July 13](https://uchicago.zoom.us/j/99896661366?pwd=UkFCeWwzMC81enZkNUZUbDk4dThHZz09): Intro to mixed modeling lecture tutorial (**Emily Ruhs / Dave Klinges**)
   * [Mixed models part 2 lecture](/assets/lectures/C4C-Mixed-Models-GLMM.pdf)
-  * [Mixed models part 2 tutorial (zip)](/assets/tutorials/C4C-Mixed-Models-Part2.zip)
+  * [Mixed models part 2 tutorial](/assets/tutorials/C4C-Mixed-Models-Part2.zip)
 * *Mentor/Mentee Goal: Outline plan for research analyses on independent work*
 
 
@@ -40,6 +40,7 @@ permalink: /syllabus
 * [Monday, July 25](https://uchicago.zoom.us/j/99929766081?pwd=UDFqeFdlbGhlWXczdWdRSFVraDlsQT09): Community biodiversity analysis lecture (**Katie Young**)
   * [Community biodiversity lecture](/assets/lectures/C4C-Community-Biodiversity.pdf)
 * [Wednesday, July 27](https://uchicago.zoom.us/j/99929766081?pwd=UDFqeFdlbGhlWXczdWdRSFVraDlsQT09): Community biodiversity analysis tutorial  (**Katie Young**)
+  * [Community biodiversity tutorial](/assets/tutorials/C4C-Community-Biodiversity.zip)
 * *Mentor/Mentee Goal: Outline 3-5 figures and accompany analyses for final paper*
 
 
