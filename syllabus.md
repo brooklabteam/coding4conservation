@@ -38,6 +38,7 @@ permalink: /syllabus
 
 **Week 4: Community biodiversity analyses**
 * [Monday, July 25](https://uchicago.zoom.us/j/99929766081?pwd=UDFqeFdlbGhlWXczdWdRSFVraDlsQT09): Community biodiversity analysis lecture (**Katie Young**)
+  * [Community biodiversity lecture](/assets/lectures/C4C-Community-Biodiversity.pdf)
 * [Wednesday, July 27](https://uchicago.zoom.us/j/99929766081?pwd=UDFqeFdlbGhlWXczdWdRSFVraDlsQT09): Community biodiversity analysis tutorial  (**Katie Young**)
 * *Mentor/Mentee Goal: Outline 3-5 figures and accompany analyses for final paper*
 
