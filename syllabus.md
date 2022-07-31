@@ -24,7 +24,7 @@ permalink: /syllabus
    * [Linear regression lecture](/assets/lectures/C4C_LinearRegression_2022.pdf)
    * [Linear regression tutorial](/assets/tutorials/C4C-LinearRegression.zip)
 * *Mentor/Mentee Goal: Explore individual datasets + Refine research questions*
-  * [Please fill our this contract as a mentor/mentee pair by Friday, July 8, 2022!](https://airtable.com/shrVXHoWCjT5ieg66)
+  * [Please fill out this contract as a mentor/mentee pair by Friday, July 8, 2022!](https://airtable.com/shrVXHoWCjT5ieg66)
 
 **Week 3: Intro to mixed modeling**
 * [Monday, July 11](https://uchicago.zoom.us/j/99896661366?pwd=UkFCeWwzMC81enZkNUZUbDk4dThHZz09): Intro to mixed modeling lecture (**Emily Ruhs / Dave Klinges**)
@@ -42,6 +42,9 @@ permalink: /syllabus
 * [Wednesday, July 27](https://uchicago.zoom.us/j/99929766081?pwd=UDFqeFdlbGhlWXczdWdRSFVraDlsQT09): Community biodiversity analysis tutorial  (**Katie Young**)
   * [Community biodiversity tutorial](/assets/tutorials/C4C-Community-Biodiversity.zip)
 * *Mentor/Mentee Goal: Outline 3-5 figures and accompany analyses for final paper*
+  * [Please fill out this assignment form as a mentor/mentee pair by Friday, August 12!](https://airtable.com/shr7pnohLmQvINE2h)
+* *Mid-Session Feedback: We would like to get your feedback on the course so far!*
+  * [Please fill out this feedback form by Friday, August 12!](https://airtable.com/shr3dbMDBzbDDNBJp)
 
 
 **Week 5: Building and fitting compartmental models in ecology**
