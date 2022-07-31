@@ -44,7 +44,7 @@ permalink: /syllabus
 * *Mentor/Mentee Goal: Outline 3-5 figures and accompany analyses for final paper*
   * [Please fill out this assignment form as a mentor/mentee pair by Friday, August 12!](https://airtable.com/shr7pnohLmQvINE2h)
 * *Mid-Session Feedback: We would like to get your feedback on the course so far!*
-  * [Please fill out this feedback form by Friday, August 12!](https://airtable.com/shr3dbMDBzbDDNBJp)
+  * [Students, please fill out this feedback form by Friday, August 12!](https://airtable.com/shr3dbMDBzbDDNBJp)
 
 
 **Week 5: Building and fitting compartmental models in ecology**
