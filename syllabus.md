@@ -49,6 +49,7 @@ permalink: /syllabus
 
 **Week 5: Building and fitting compartmental models in ecology**
 * [Monday, August 8](https://uchicago.zoom.us/j/99757424819?pwd=UHBtYzBxQ3VCZ0lXZ2dLUTVZRFMxdz09): Building and fitting compartmental models in ecology lecture (**Katie Gostic**)
+  * [Compartmental models part 1 tutorial](/assets/tutorials/C4C-Compartmental-Models-Part1.zip)
 * [Wednesday, August 10](https://uchicago.zoom.us/j/99757424819?pwd=UHBtYzBxQ3VCZ0lXZ2dLUTVZRFMxdz09): Building and fitting compartmental models in ecology tutorial (**Katie Gostic**)
 * *Mentor/Mentee Goal: Begin work on figures for final paper*
 
