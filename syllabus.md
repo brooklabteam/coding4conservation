@@ -52,6 +52,7 @@ permalink: /syllabus
   * [Compartmental models part 1 lecture](/assets/lectures/C4C-Compartmental-Models-Part1.pdf)
   * [Compartmental models part 1 tutorial](/assets/tutorials/C4C-Compartmental-Models-Part1.zip)
 * [Wednesday, August 10](https://uchicago.zoom.us/j/99757424819?pwd=UHBtYzBxQ3VCZ0lXZ2dLUTVZRFMxdz09): Building and fitting compartmental models in ecology tutorial (**Katie Gostic**)
+  * [Compartmental models part 2 tutorial](/assets/tutorials/C4C-Compartmental-Models-Part2.zip)
 * *Mentor/Mentee Goal: Begin work on figures for final paper*
 
 **Week 6: Model evaluation and comparison**
