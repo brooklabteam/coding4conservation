@@ -62,7 +62,7 @@ permalink: /syllabus
 * *Mentor/Mentee Goal: Conclude Figure 1 for final paper*
 
 **Week 7: Mid-Session Workshop**
-* [Monday, September 5](https://uchicago.zoom.us/j/99418545098?pwd=emxTWkVkOEpsdFFnRUtoWmlxMGowUT09): Workshop Session 1
+* [Tuesday, September 6](https://uchicago.zoom.us/j/99418545098?pwd=emxTWkVkOEpsdFFnRUtoWmlxMGowUT09): Workshop Session 1
 * [Wednesday, September 7](https://uchicago.zoom.us/j/99418545098?pwd=emxTWkVkOEpsdFFnRUtoWmlxMGowUT09): Workshop Session 2
 
 * [Please submit your workshop slides here by Monday, September 5!](https://airtable.com/shrkkEl0MuIcvMVZd)
