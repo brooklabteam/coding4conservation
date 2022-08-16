@@ -61,10 +61,12 @@ permalink: /syllabus
 * [Wednesday, August 24](https://ucsb.zoom.us/j/84057887911): Model evaluation and comparison tutorial (**Sam Sambado/Tatum Katz**)
 * *Mentor/Mentee Goal: Conclude Figure 1 for final paper*
 
+**Week 7: Mid-Session Workshop**
+* [Monday, September 5](https://uchicago.zoom.us/j/99418545098?pwd=emxTWkVkOEpsdFFnRUtoWmlxMGowUT09): Workshop Session 1
+* [Wednesday, September 7](https://uchicago.zoom.us/j/99418545098?pwd=emxTWkVkOEpsdFFnRUtoWmlxMGowUT09): Workshop Session 2
 
-**Week 7: Intro to occupancy modeling**
-* [Monday, September 5](https://uchicago.zoom.us/j/99418545098?pwd=emxTWkVkOEpsdFFnRUtoWmlxMGowUT09): Intro to occupancy modeling lecture (**Theresa Laverty**)
-* [Wednesday, September 7](https://uchicago.zoom.us/j/99418545098?pwd=emxTWkVkOEpsdFFnRUtoWmlxMGowUT09): Intro to occupancy modeling tutorial (**Theresa Laverty**)
+* [Please submit your workshop slides here by Monday, September 5!](https://airtable.com/shr7pnohLmQvINE2h)
+
 * *Mentor/Mentee Goal: Conclude Figure 2 for final paper*
 
 *After courses conclude, we will move to once-a-month full group check-ins and research progress reports as a whole class. Mentors and mentees will continue to meet on their own time throughout this stage of the research to advance research progress on student projects.*
