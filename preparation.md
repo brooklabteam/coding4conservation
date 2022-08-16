@@ -10,7 +10,7 @@ permalink: /preparation
 
 ### **Software installations**
 
-We ask that you please begin to familiarize yourself with the computer programs that will be used throughout the duration of the training. You will need a personal computer with internet access in order to participate, though funds are available to support the purchase of data credit to facilitate your participation. *If you do not have access to a computer, please email Cara Brook at [cbrook@uchicago.edu](cbrook@uchicago.edu) immediately to find a solution.*
+We ask that you please begin to familiarize yourself with the computer programs that will be used throughout the duration of the training. You will need a personal computer with internet access in order to participate, though funds are available to support the purchase of data credit to facilitate your participation. *If you do not have access to a computer, please email Cara Brook at [cbrook@uchicago.edu](mailto:cbrook@uchicago.edu) immediately to find a solution.*
 
 Once you have selected a computer for use for the workshop, please be sure that the following programs are installed and working:
 
