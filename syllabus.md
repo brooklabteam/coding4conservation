@@ -58,6 +58,7 @@ permalink: /syllabus
 
 **Week 6: Model evaluation and comparison**
 * [Monday, August 22](https://ucsb.zoom.us/j/87596509637): Model evaluation and comparison lecture (**Sam Sambado/Tatum Katz**)
+  * [Model evaluation and comparison lecture](/assets/lectures/C4C-Model-Evaluations.pdf)
 * [Wednesday, August 24](https://ucsb.zoom.us/j/84057887911): Model evaluation and comparison tutorial (**Sam Sambado/Tatum Katz**)
 * *Mentor/Mentee Goal: Conclude Figure 1 for final paper*
 
