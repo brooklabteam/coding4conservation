@@ -43,8 +43,6 @@ permalink: /syllabus
   * [Community biodiversity tutorial](/assets/tutorials/C4C-Community-Biodiversity.zip)
 * *Mentor/Mentee Goal: Outline 3-5 figures and accompany analyses for final paper*
   * [Please fill out this assignment form as a mentor/mentee pair by Friday, August 12!](https://airtable.com/shr7pnohLmQvINE2h)
-* *Mid-Session Feedback: We would like to get your feedback on the course so far!*
-  * [Students, please fill out this feedback form by Friday, August 12!](https://airtable.com/shr3dbMDBzbDDNBJp)
 
 
 **Week 5: Building and fitting compartmental models in ecology**
@@ -68,6 +66,9 @@ permalink: /syllabus
 * [Wednesday, September 7](https://uchicago.zoom.us/j/99418545098?pwd=emxTWkVkOEpsdFFnRUtoWmlxMGowUT09): Workshop Session 2
 
 * [Please submit your workshop slides here by Monday, September 5!](https://airtable.com/shrkkEl0MuIcvMVZd)
+
+* *Mid-Session Feedback: We would like to get your feedback on the course!*
+  * [Students, please fill out this feedback form!](https://airtable.com/shr3dbMDBzbDDNBJp)
 
 * *Mentor/Mentee Goal: Conclude Figure 2 for final paper*
 
