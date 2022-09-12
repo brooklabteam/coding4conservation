@@ -75,11 +75,12 @@ permalink: /syllabus
 *After courses conclude, we will move to once-a-month full group check-ins and research progress reports as a whole class. Mentors and mentees will continue to meet on their own time throughout this stage of the research to advance research progress on student projects.*
 
 **Week 8: Research updates**
-* [Monday, September 26](https://uchicago.zoom.us/j/94061518080?pwd=Zno2cHBOajhrSDVTWEhlSC9hcWVmdz09): Full group check-in + research updates
+* No meeting this week! 
 * *Mentor/Mentee Goal: Conclude Figures 3-4 for final paper*
 
 **Week 9: Research updates**
 * [Monday, October 24](https://uchicago.zoom.us/j/94061518080?pwd=Zno2cHBOajhrSDVTWEhlSC9hcWVmdz09): Full group check-in + research updates
+* [Please submit your slides here by Friday, October 21!](https://airtable.com/shr65qUMywNjYjGRs)
 * *Mentor/Mentee Goal: Conclude Figure 5 for final paper (if applicable) + outline plans for writing manuscript*
 
 **Week 10: Research updates**
