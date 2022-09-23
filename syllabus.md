@@ -75,7 +75,8 @@ permalink: /syllabus
 *After courses conclude, we will move to once-a-month full group check-ins and research progress reports as a whole class. Mentors and mentees will continue to meet on their own time throughout this stage of the research to advance research progress on student projects.*
 
 **Week 8: Research updates**
-* No meeting this week! 
+* In-person office hours with Cara Brook on **Tuesday, September 27 from 8-10 am** Madagascar time at the Madagascar Biodiversity Center in Tsimbazaza! 
+  * Cara will be giving a seminar following in-person office hours at 10 am. You are all invited to attend! 
 * *Mentor/Mentee Goal: Conclude Figures 3-4 for final paper*
 
 **Week 9: Research updates**
