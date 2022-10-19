@@ -85,7 +85,7 @@ permalink: /syllabus
 
 **Week 10: Research updates**
 * [Wednesday, November 23](https://uchicago.zoom.us/j/94061518080?pwd=Zno2cHBOajhrSDVTWEhlSC9hcWVmdz09): Full group check-in + research updates
-* [Please submit your slides here by Monday, November 21!] (https://airtable.com/shrrrb4QoaucYvah1)
+* [Please submit your slides here by Monday, November 21!](https://airtable.com/shrrrb4QoaucYvah1)
 * *Mentor/Mentee Goal: Write introduction to final paper*
 
 **Week 11: Research updates**
