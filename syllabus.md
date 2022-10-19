@@ -77,16 +77,15 @@ permalink: /syllabus
 **Week 8: Research updates**
 * In-person office hours with Cara Brook on **Tuesday, September 27 from 7-10 am** Madagascar time at the Madagascar Biodiversity Center in Tsimbazaza! 
   * Cara will be giving a seminar following in-person office hours at 10 am at the MBC. You are all invited to attend! 
-  
 * *Mentor/Mentee Goal: Conclude Figures 3-4 for final paper*
 
 **Week 9: Research updates**
-* [Monday, October 24](https://uchicago.zoom.us/j/94061518080?pwd=Zno2cHBOajhrSDVTWEhlSC9hcWVmdz09): Full group check-in + research updates
-* [Please submit your slides here by Friday, October 21!](https://airtable.com/shr65qUMywNjYjGRs)
+* Monday, October 24: no meeting this week! 
 * *Mentor/Mentee Goal: Conclude Figure 5 for final paper (if applicable) + outline plans for writing manuscript*
 
 **Week 10: Research updates**
-* [Monday, November 21](https://uchicago.zoom.us/j/94061518080?pwd=Zno2cHBOajhrSDVTWEhlSC9hcWVmdz09): Full group check-in + research updates
+* [Wednesday, November 23](https://uchicago.zoom.us/j/94061518080?pwd=Zno2cHBOajhrSDVTWEhlSC9hcWVmdz09): Full group check-in + research updates
+* [Please submit your slides here by Monday, November 21!] (https://airtable.com/shrrrb4QoaucYvah1)
 * *Mentor/Mentee Goal: Write introduction to final paper*
 
 **Week 11: Research updates**
