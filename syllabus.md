@@ -80,7 +80,7 @@ permalink: /syllabus
 * *Mentor/Mentee Goal: Conclude Figures 3-4 for final paper*
 
 **Week 9: Research updates**
-* Monday, October 24: no meeting this week! 
+* Monday, October 24: no meeting this week 
 * *Mentor/Mentee Goal: Conclude Figure 5 for final paper (if applicable) + outline plans for writing manuscript*
 
 **Week 10: Research updates**
