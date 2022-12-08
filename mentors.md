@@ -99,7 +99,7 @@ Thanks to our support staff! ...
 
 <div class="profile-card">
 	<img src="/assets/mentors/santino_andry.jpg" class="rounded float-start img-profile" />
-<strong>Santino Andry</strong> is also a member of <a href="https://brooklab.org/team">Ekipa Fanihy</a> and a student in the Department of Entomology at the University of Antananarivo, Madagascar. He recently finished his Master's degree, where he worked with the Madagascar Biodiversity Center to document the effects of logging intensification on exotic and native ant assemblages in the new protected area of Ambohidray, District of Moramanga, Madagascar. Along with mentee Angelo Andrianiaina, he recently published a <a href="https://academic.oup.com/jmammal/advance-article-abstract/doi/10.1093/jmammal/gyac072/6679019?redirectedFrom=fulltext&login=false">life history summary</a
+<strong>Santino Andry</strong> is also a member of <a href="https://brooklab.org/team">Ekipa Fanihy</a> and a student in the Department of Entomology at the University of Antananarivo, Madagascar. He recently finished his Master's degree, where he worked with the Madagascar Biodiversity Center to document the effects of logging intensification on exotic and native ant assemblages in the new protected area of Ambohidray, District of Moramanga, Madagascar. Along with mentee Angelo Andrianiaina, he recently published a <a href="https://academic.oup.com/jmammal/advance-article-abstract/doi/10.1093/jmammal/gyac072/6679019?redirectedFrom=fulltext&login=false">life history analysis</a>
  of Madagascar fruit bats in the <em>Journal of Mammalogy</em>. Santino is also helping to coordinate the office hours and data supply for C4C.
 
 </div>
