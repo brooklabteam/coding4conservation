@@ -89,3 +89,16 @@ Here are our 2022 mentors...
 	<img src="/assets/mentors/young,katie.jpg" class="rounded float-start img-profile" />
 	<strong>Katie Young</strong> is a Postdoctoral Scholar in Dr. Cara Brook’s lab in the Department of Ecology and Evolution at the University of Chicago. She received her B.S. in Biology from Longwood University in 2008, followed by two years of service, 2009 - 2011, as a Peace Corps Volunteer in Kenya. She received her M.S. and PhD in Biology from New Mexico State University in 2015 and 2019 where she was advised by Dr. Kathryn Hanley. She was awarded a Fulbright Fellowship to Malaysian Borneo in 2016. She was a USDA funded Postdoctoral fellow working on a Grand Challenge Project in Mexico and New Mexico from 2019 to 2022 before joining the Brook lab. Katie is an RNA virus ecologist with a focus on arthropod-borne viruses and uses an inter-disciplinary approach including field-based sampling, molecular biology, and open-source data analytics to better understand complex host-vector-environmental interactions that drive viral emergence in Madagascar.
 </div>
+
+Thanks to our support staff! ...
+
+<div class="profile-card">
+	<img src="/assets/mentors/fifi_ravelomanantsoa.jpg" class="rounded float-start img-profile" />
+<strong>Fifi Ravelomanantsoa</strong> is a member of <a href="https://brooklab.org/team">Ekipa Fanihy</a> and a student in the Department of Zoology and Animal Biodiversity at the University of Antananarivo, Madagascar, where she is studying seasonal variation in microbiome gut flora in Malagasy fruit bats and the interactions of these microbiome communities with the dynamics of viral and bacterial infections. Fifi's <a href="https://doi.org/10.1042/ETLS20200097">review of the zoonotic potential of bat-borne coronaviruses</a> was recently published in <em>Emerging Topics in Life Sciences</em>. Fifi holds a Master's degree in Animal Conservation from the University of Antananarivo and has previously studied patterns in chiropteran biodiversity in the Melaky region of western Madagascar. She is helping to coordinate the office hours and data supply for C4C.
+</div>
+
+<div class="profile-card">
+	<img src="/assets/mentors/santino_andry.jpg" class="rounded float-start img-profile" />
+<strong>Santino Andry</strong> is also a member of <a href="https://brooklab.org/team">Ekipa Fanihy</a> and a student in the Department of Entomology at the University of Antananarivo, Madagascar. He recently finished his **Master's** degree, where he worked with the Madagascar Biodiversity Center to document the effects of logging intensification on exotic and native ant assemblages in the new protected area of Ambohidray, District of Moramanga, Madagascar. Along with Fifi, Santino is also helping to coordinate the office hours and data supply for C4C.
+
+</div>
