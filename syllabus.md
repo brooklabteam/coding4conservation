@@ -89,21 +89,31 @@ permalink: /syllabus
 * *Mentor/Mentee Goal: Write introduction to final paper*
 
 **Week 11: Research updates**
-* [Monday, December 19](https://uchicago.zoom.us/j/94061518080?pwd=Zno2cHBOajhrSDVTWEhlSC9hcWVmdz09): Full group check-in + research updates
-* *Mentor/Mentee Goal: Write methods for final paper*
+* Saturday, December 10-Saturday, December 17: C4C students attend [E2M2 2022](e2m2.org) for independent worktime with instructor support.
 
 **Week 12: Research updates**
-* [Monday, January 16](https://uchicago.zoom.us/j/94061518080?pwd=Zno2cHBOajhrSDVTWEhlSC9hcWVmdz09): Full group check-in + research updates
-* *Mentor/Mentee Goal: Write results for final paper*
+* Wednesday, January 4: Cara and Sophia available for in-person tutoring from **9am-4pm at Madagascar Biodiversity Center at Tsimbazaza**. Please stop by with any questions!
 
-**Week 13: Final wrap up-and presentations**
-* [Monday, February 13](https://uchicago.zoom.us/j/96497489693?pwd=Wm80K2VzRk4rNjlSOXlUMlFSMW50dz09): Full group check-in + research presentations
-* [Wednesday, February 15](https://uchicago.zoom.us/j/96497489693?pwd=Wm80K2VzRk4rNjlSOXlUMlFSMW50dz09): Full group check-in + research presentations
-* *Mentor/Mentee Goal: Write discussion for final paper to complete first draft*
+**Week 13: Research updates**
+* Wednesday, January 18: Cara available for in-person tutoring from 9am-4pm at Madagascar Biodiversity Center at Tsimbazaza.
 
-**March-April: Independent work**
-* *Mentor/Mentee Goal: Edit and revise final paper as needed*
-* *Mentor/Mentee Goal: Submit final paper to peer-reviewed journal*
+**Week 14: Research updates**
+* TBA: Zoom check-in sometime February 2023
+
+**Week 15: Research updates**
+* TBA: Zoom check-in sometime March 2023
+
+**Week 16: Research updates**
+* TBA: Zoom check-in sometime April 2023
+
+**Week 17: Research updates**
+* TBA: Zoom check-in sometime May 2023
+
+**Week 18: Research updates**
+* TBA: **In-person tutoring in June 2023 at Madagascar Biodiversity Center!**
+
+* We are postponing the final presentations until September 2023!
+
 
 ---
 
