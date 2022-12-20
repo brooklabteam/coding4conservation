@@ -98,16 +98,16 @@ permalink: /syllabus
 * Wednesday, January 18: Cara available for in-person tutoring from 9am-4pm at Madagascar Biodiversity Center at Tsimbazaza.
 
 **Week 14: Research updates**
-* TBA: Zoom check-in sometime February 2023
+* [Wednesday, February 15](https://uchicagomedicine.zoom.us/j/95414698189?pwd=YkpEejJldU9hM1F1UW9YcWJBMGFUZz09): Full group check-in + research updates
 
 **Week 15: Research updates**
-* TBA: Zoom check-in sometime March 2023
+* [Wednesday, March 15](https://uchicagomedicine.zoom.us/j/95414698189?pwd=YkpEejJldU9hM1F1UW9YcWJBMGFUZz09): Full group check-in + research updates
 
 **Week 16: Research updates**
-* TBA: Zoom check-in sometime April 2023
+* [Wednesday, April 12](https://uchicagomedicine.zoom.us/j/95414698189?pwd=YkpEejJldU9hM1F1UW9YcWJBMGFUZz09): Full group check-in + research updates
 
 **Week 17: Research updates**
-* TBA: Zoom check-in sometime May 2023
+* [Wednesday, May 10](https://uchicagomedicine.zoom.us/j/95414698189?pwd=YkpEejJldU9hM1F1UW9YcWJBMGFUZz09): Full group check-in + research updates
 
 **Week 18: Research updates**
 * TBA: **In-person tutoring in June 2023 at Madagascar Biodiversity Center!**
