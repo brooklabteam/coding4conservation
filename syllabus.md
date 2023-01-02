@@ -95,7 +95,7 @@ permalink: /syllabus
 * Wednesday, January 4: Cara and Sophia available for in-person tutoring from **9am-4pm at Madagascar Biodiversity Center at Tsimbazaza**. Please stop by with any questions!
 
 **Week 13: Research updates**
-* Wednesday, January 18: Cara available for in-person tutoring from 9am-4pm at Madagascar Biodiversity Center at Tsimbazaza.
+* Wednesday, January 18: Cara available for in-person tutoring from 8am-4pm at Madagascar Biodiversity Center at Tsimbazaza.
 
 **Week 14: Research updates**
 * [Wednesday, February 15](https://uchicagomedicine.zoom.us/j/95414698189?pwd=YkpEejJldU9hM1F1UW9YcWJBMGFUZz09): Full group check-in + research updates
