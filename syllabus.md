@@ -119,7 +119,7 @@ permalink: /syllabus
 
 **General Notes**
 * Students can access preparation materials and assignments [here](/preparation).
-* All courses take place from 5:30-7pm Madagascar time (9:30-11am US CT) unless otherwise noted. 
+* All courses take place from 6:30-8pm Madagascar time (9:30-11am US CT) unless otherwise noted. 
 * Mentors and mentees should meet and/or discuss virtually (e.g. slack) on the off-weeks between courses to (1) address any confusion from the topics of the week and (2) guide progress on each student's independent research project. Mentor-mentee assignments are available [here](https://docs.google.com/spreadsheets/d/1LiB15Mq-37fHIPGmCCKeeCleA2mI4aWcjGG_UthsF5c/edit#gid=0).
 * Training themes are listed by week of instruction. The syllabus can also be accessed on Google Sheets [here](https://docs.google.com/spreadsheets/d/1NxoWXWjJQMAHUbshYlE9oUVd0FoKkl1ux2dw5pfOf2M/edit#gid=0).
 * Each training theme is accompanied by a *Mentor/Mentee Goal*. These can can also be viewed on GoogleSheets [here](https://docs.google.com/spreadsheets/d/1HCjoNqVcXMw3KTSBItGuHyT_hUaLPW8vNQ5SdBJerW4/edit?usp=sharing).
