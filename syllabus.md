@@ -101,13 +101,13 @@ permalink: /syllabus
 * [Wednesday, February 15](https://uchicagomedicine.zoom.us/j/95414698189?pwd=YkpEejJldU9hM1F1UW9YcWJBMGFUZz09): Full group check-in + research updates
 
 **Week 15: Research updates**
-* [Wednesday, March 15](https://uchicagomedicine.zoom.us/j/95414698189?pwd=YkpEejJldU9hM1F1UW9YcWJBMGFUZz09): Full group check-in + research updates
+* [Wednesday, March 15](https://uchicago.zoom.us/j/91286854950?pwd=anN4R0pETTVHM1NVaytrdWRkN2pXUT09): Full group check-in + research updates
 
 **Week 16: Research updates**
-* [Wednesday, April 12](https://uchicagomedicine.zoom.us/j/95414698189?pwd=YkpEejJldU9hM1F1UW9YcWJBMGFUZz09): Full group check-in + research updates
+* [Wednesday, April 12](https://uchicago.zoom.us/j/91286854950?pwd=anN4R0pETTVHM1NVaytrdWRkN2pXUT09): Full group check-in + research updates
 
 **Week 17: Research updates**
-* [Wednesday, May 10](https://uchicagomedicine.zoom.us/j/95414698189?pwd=YkpEejJldU9hM1F1UW9YcWJBMGFUZz09): Full group check-in + research updates
+* [Wednesday, May 10](https://uchicago.zoom.us/j/91286854950?pwd=anN4R0pETTVHM1NVaytrdWRkN2pXUT09): Full group check-in + research updates
 
 **Week 18: Research updates**
 * TBA: **In-person tutoring in June 2023 at Madagascar Biodiversity Center!**
