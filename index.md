@@ -11,8 +11,10 @@ Please stay tuned for our replies!</center></p>
 </div>
 -->
 
+<img src="assets/img/C4C12.png" style="float: left; max-width: 15em; margin: 1em 1em 1em 0;" />
+
 <img src="assets/img/IMGP0119.JPG" style="float: right; max-width: 12em; margin: 1em 0 1em 1em;" />
- 
+
 <p>We are pleased to announce our National Geographic and L'Oréal USA-funded, year-long mentorship program <em>Coding for Conservation</em>. This program is targeted towards Malagasy students in their third cycle or higher in conservation biology, zoology, animal biodiversity, entomology, botany, and related fields, though all are welcome to apply. In part with this program, Malagasy students will attend a mix of remote (online) and in-person lectures and tutorials on an <strong>every-other-week frequency</strong> while also receiving <strong>one-on-one instruction</strong> in data analysis and scientific writing oriented towards the publication of their personal research projects. Funding will be provided for students to procure data to attend online workshops, and opportunities will be available for students based in Antananarivo to view lectures in a group setting.</p>
 
 <!--
