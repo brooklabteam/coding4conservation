@@ -89,7 +89,7 @@ permalink: /syllabus
 * *Mentor/Mentee Goal: Write introduction to final paper*
 
 **Week 11: Research updates**
-* Saturday, December 10-Saturday, December 17: C4C students attend [E2M2 2022](e2m2.org) for independent worktime with instructor support.
+* Saturday, December 10-Saturday, December 17: C4C students attend [E2M2 2022](https://e2m2.org) for independent worktime with instructor support.
 
 **Week 12: Research updates**
 * Wednesday, January 4: Cara and Sophia available for in-person tutoring from **9am-4pm at Madagascar Biodiversity Center at Tsimbazaza**. Please stop by with any questions!
