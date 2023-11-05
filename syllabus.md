@@ -3,7 +3,7 @@ title: "Syllabus"
 layout: page
 permalink: /syllabus
 ---
-
+We are currently developing the 2024 syllabus. In the meantime, check out the 2022 syllabus below.
 
 **Week 0: Preparation**
 * [Friday, June 10](https://uchicago.zoom.us/j/99876038089?pwd=VGZhL1NFMFFhQ1N2OFNOK3BXMnVCQT09): Please attend open office hours if you have questions on installation or preparation.

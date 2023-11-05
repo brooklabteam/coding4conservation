@@ -4,8 +4,8 @@ layout: page
 permalink: /preparation
 ---
 <div class="bs-callout bs-callout-warning">
- <p>🥳 Congratulations on your selection for Coding-4-Conservation 2022!</p>
- <p>Please familiarize yourself with the preparation materials below in order to prepare for the upcoming workshop.</p>
+ <p>We are currently accepting applications for our 2024 cohort.</p>
+ <p>In the meantime, you can familiarize yourself with the preparation materials below.</p>
 </div>
 
 ### **Software installations**

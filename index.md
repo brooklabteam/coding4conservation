@@ -2,7 +2,7 @@
 layout: home
 title: "Coding 4 Conservation"
 ---
-<p><em>A year-long mentorship program in R-based data analysis and communication for Malagasy students with ongoing research projects in ecology, conservation, biodiversity science, and related fields which runs from May 2022 to April 2023.</em></p>
+<p><em>A year-long mentorship program in R-based data analysis and communication for Malagasy students with ongoing research projects in ecology, conservation, biodiversity science, and related fields which runs from February 2024 to January 2025.</em></p>
 
 <!--
 <div class="bs-callout bs-callout-warning">
@@ -27,19 +27,18 @@ Please stay tuned for our replies!</center></p>
 
 <img src="assets/img/IMG_1317.JPG" style="float: right; width: 60%; max-width: 10em; margin: 1em 0 1em 1em;" />
 
-<!--<p>The course will be taught primarily in English, though a subset of the faculty will be available to offer some translation into French and/or Malagasy. A working knowledge of the English language is required for admission; however, we will do our best to make the material accessible to students who find English challenging. If you have any questions about the appropriateness of your background or training for our course, either in language or in science, please do not hesitate to contact us straight away (email below).</p>
+<p>The course will be taught primarily in English, though a subset of the faculty will be available to offer some translation into French and/or Malagasy. A working knowledge of the English language is required for admission; however, we will do our best to make the material accessible to students who find English challenging. If you have any questions about the appropriateness of your background or training for our course, either in language or in science, please do not hesitate to contact us straight away (email below).</p>
+
+<!--p><strong>Selected students have already been notified of their invitation to participation in the program.</strong> Please review our tentative <a href="/syllabus">syllabus</a> for a tentative program plan. You will be invited to join a Google Calendar that includes links to these zoom meetings shortly. Please also review and complete all installations and tutorials on the <a href="/preparation">preparation</a> page prior to the onset of the workshop on June 13. We will have an open office hours day on Friday, June 13 if you have any questions or are struggling with any of the material.</p>
 -->
 
-<p><strong>Selected students have already been notified of their invitation to participation in the program.</strong> Please review our tentative <a href="/syllabus">syllabus</a> for a tentative program plan. You will be invited to join a Google Calendar that includes links to these zoom meetings shortly. Please also review and complete all installations and tutorials on the <a href="/preparation">preparation</a> page prior to the onset of the workshop on June 13. We will have an open office hours day on Friday, June 13 if you have any questions or are struggling with any of the material.</p>
 
-
-
-<!--<p>Applications are available for submission at below and must be completed and uploaded by 11:59 pm East Africa Time (GMT+3) on <strong>Friday, April 1, 2022</strong> if you wish to be considered.</p>
+<p>Applications are available for submission at below and must be completed and uploaded by 11:59 pm East Africa Time (GMT+3) on <strong>Monday, December 4th, 2023</strong> if you wish to be considered.</p>
 
 <div class="bs-callout bs-callout-info">
 <p>All application materials must be submitted in English. The application consists of:</p>
 <ul>
-	<li>Form linked here: deadline passed!</li>
+	<li><a href="https://airtable.com/appDuntBxSZlaLXpd/shrm89BaDrMKqIIf9">Form linked here:</a></li>
 	<li>Uploaded .pdf file with:
 		<ul>
 			<li>Curriculum Vitae (Limit: 4 pages).</li>
@@ -51,12 +50,11 @@ Please stay tuned for our replies!</center></p>
 </ul>
 </div>
 
-<p>Please do not hesitate to contact cbrook@uchicago.edu and onja@berkeley.edu with any questions or concerns. We hope to see your application in April!</p>
+<p>Please do not hesitate to contact cbrook@uchicago.edu and shorigan@uchicago.edu with any questions or concerns. We hope to see your application!</p>
 
--->
 
 <p>–The ‘Coding for Conservation’ steering committee<br />
-<em>Cara Brook, Onja Razafindratsima, Emily Ruhs, Theresa Laverty, Angelo Andrianiaina, Fifi Ravelomanantsoa, Santino Andry, Dominic Daniels, Kendall Fitzgerald, Benjamin Chait, Hafaliana Christian Ranaivoson</em></p>
+<em>Cara Brook, Sophia Horigan, Onja Razafindratsima, Emily Ruhs, Theresa Laverty, Angelo Andrianiaina, Fifi Ravelomanantsoa, Santino Andry, Dominic Daniels, Kendall Fitzgerald, Benjamin Chait, Hafaliana Christian Ranaivoson</em></p>
 
 <div style="vertical-align: middle; text-align: center;">
 	<img src="assets/img/partners/ucbseal_139_540.png" style="width: 10em; max-width: 30%; vertical-align: middle;" />

@@ -3,7 +3,7 @@ layout: page
 title: Mentors
 permalink: /mentors
 ---
-Here are our 2022 mentors...
+We are currently recruiting mentors for 2024. In the meantime, check out our mentors from 2022.
 
 <div class="profile-card">
 	<img src="/assets/mentors/brook,cara.jpeg" class="rounded float-start img-profile" />
