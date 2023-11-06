@@ -15,7 +15,7 @@ Please stay tuned for our replies!</center></p>
 
 <img src="assets/img/IMGP0119.JPG" style="float: right; max-width: 12em; margin: 1em 0 1em 1em;" />
 
-<p>We are pleased to announce our National Geographic and L'Oréal USA-funded, year-long mentorship program <em>Coding for Conservation</em>. This program is targeted towards Malagasy students in their third cycle or higher in conservation biology, zoology, animal biodiversity, entomology, botany, and related fields, though all are welcome to apply. In part with this program, Malagasy students will attend a mix of remote (online) and in-person lectures and tutorials on an <strong>every-other-week frequency</strong> while also receiving <strong>one-on-one instruction</strong> in data analysis and scientific writing oriented towards the publication of their personal research projects. Funding will be provided for students to procure data to attend online workshops, and opportunities will be available for students based in Antananarivo to view lectures in a group setting.</p>
+<p>We are pleased to announce our year-long mentorship program <em>Coding for Conservation</em>. This program is targeted towards Malagasy students in their third cycle or higher in conservation biology, zoology, animal biodiversity, entomology, botany, and related fields, though all are welcome to apply. In part with this program, Malagasy students will attend a <strong>week-long computational workshop</strong>, Ecological and Epidemiological Modeling in Madagascar <a href="e2m2.org">e2m2.org</a>, while also receiving <strong>one-on-one instruction</strong> in data analysis and scientific writing oriented towards the publication of their personal research projects.</p>
 
 <!--
 <img src="assets/img/IMGP1272.JPG" style="float: left; max-width: 10em; margin: 1em 1em 1em 0;" />
@@ -38,7 +38,7 @@ Please stay tuned for our replies!</center></p>
 <div class="bs-callout bs-callout-info">
 <p>All application materials must be submitted in English. The application consists of:</p>
 <ul>
-	<li><a href="https://airtable.com/appDuntBxSZlaLXpd/shrm89BaDrMKqIIf9">Form linked here:</a></li>
+	<li><a href="https://airtable.com/appDuntBxSZlaLXpd/shrm89BaDrMKqIIf9">Application form, linked here.</a></li>
 	<li>Uploaded .pdf file with:
 		<ul>
 			<li>Curriculum Vitae (Limit: 4 pages).</li>
@@ -54,14 +54,10 @@ Please stay tuned for our replies!</center></p>
 
 
 <p>–The ‘Coding for Conservation’ steering committee<br />
-<em>Cara Brook, Sophia Horigan, Onja Razafindratsima, Emily Ruhs, Theresa Laverty, Angelo Andrianiaina, Fifi Ravelomanantsoa, Santino Andry, Dominic Daniels, Kendall Fitzgerald, Benjamin Chait, Hafaliana Christian Ranaivoson</em></p>
+<em>Cara Brook, Sophia Horigan, Emily Ruhs,  Angelo Andrianiaina, Santino Andry, Benjamin Chait, Hafaliana Christian Ranaivoson</em></p>
 
 <div style="vertical-align: middle; text-align: center;">
-	<img src="assets/img/partners/ucbseal_139_540.png" style="width: 10em; max-width: 30%; vertical-align: middle;" />
-	
-	<img src="assets/img/partners/UChicago_Seal_2Color_MaroonBorder_WhiteFill_RGB.png" style="width: 10em; max-width: 32%; vertical-align: middle;" />
-	
-	<img src="assets/img/partners/Logo UA HD.jpg" style="width: 10em; max-width: 32%; vertical-align: middle;" />
+	<img src="assets/img/partners/UCCGH.jpg" style="width: 10em; max-width: 30%; vertical-align: middle;" />
 	
 	<div style="clear: both;">&nbsp;</div>
 </div>
