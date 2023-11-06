@@ -15,7 +15,7 @@ Please stay tuned for our replies!</center></p>
 
 <img src="assets/img/IMGP0119.JPG" style="float: right; max-width: 12em; margin: 1em 0 1em 1em;" />
 
-<p>We are pleased to announce our year-long mentorship program <em>Coding for Conservation</em>. This program is targeted towards Malagasy students in their third cycle or higher in conservation biology, zoology, animal biodiversity, entomology, botany, and related fields, though all are welcome to apply. In part with this program, Malagasy students will attend a <strong>week-long computational workshop</strong>, <a href="e2m2.org">Ecological and Epidemiological Modeling in Madagascar</a>, while also receiving <strong>one-on-one instruction</strong> in data analysis and scientific writing oriented towards the publication of their personal research projects.</p>
+<p>We are pleased to announce our year-long mentorship program <em>Coding for Conservation</em>. This program is targeted towards Malagasy students in their third cycle or higher in conservation biology, zoology, animal biodiversity, entomology, botany, and related fields, though all are welcome to apply. In part with this program, Malagasy students will attend a <strong>week-long computational workshop</strong>, <a href="https://e2m2.org/">Ecological and Epidemiological Modeling in Madagascar</a>, while also receiving <strong>one-on-one instruction</strong> in data analysis and scientific writing oriented towards the publication of their personal research projects.</p>
 
 <!--
 <img src="assets/img/IMGP1272.JPG" style="float: left; max-width: 10em; margin: 1em 1em 1em 0;" />
