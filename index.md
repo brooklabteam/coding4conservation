@@ -4,12 +4,11 @@ title: "Coding 4 Conservation"
 ---
 <p><em>A year-long mentorship program in R-based data analysis and communication for Malagasy students with ongoing research projects in ecology, conservation, biodiversity science, and related fields which runs from February 2024 to January 2025.</em></p>
 
-<!--
+
 <div class="bs-callout bs-callout-warning">
 <p><center>🛑 Application deadline has passed! <br />
 Please stay tuned for our replies!</center></p>
 </div>
--->
 
 <img src="assets/img/C4C12.png" style="float: left; max-width: 15em; margin: 1em 1em 1em 0;" />
 
@@ -32,7 +31,7 @@ Please stay tuned for our replies!</center></p>
 <!--p><strong>Selected students have already been notified of their invitation to participation in the program.</strong> Please review our tentative <a href="/syllabus">syllabus</a> for a tentative program plan. You will be invited to join a Google Calendar that includes links to these zoom meetings shortly. Please also review and complete all installations and tutorials on the <a href="/preparation">preparation</a> page prior to the onset of the workshop on June 13. We will have an open office hours day on Friday, June 13 if you have any questions or are struggling with any of the material.</p>
 -->
 
-
+<!--
 <p>Applications are available for submission at below and must be completed and uploaded by 11:59 pm East Africa Time (GMT+3) on <strong>Monday, December 4th, 2023</strong> if you wish to be considered.</p>
 
 <div class="bs-callout bs-callout-info">
@@ -51,7 +50,7 @@ Please stay tuned for our replies!</center></p>
 </div>
 
 <p>Please do not hesitate to contact cbrook@uchicago.edu and shorigan@uchicago.edu with any questions or concerns. We hope to see your application!</p>
-
+-->
 
 <p>–The ‘Coding for Conservation’ steering committee<br />
 <em>Cara Brook, Sophia Horigan, Emily Ruhs,  Angelo Andrianiaina, Santino Andry, Benjamin Chait, Hafaliana Christian Ranaivoson</em></p>
