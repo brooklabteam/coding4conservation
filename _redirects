@@ -14,3 +14,7 @@
 /lectures-ppt/C4C-introduction.ppt	/assets/lectures/C4C-introduction.ppt
 /lectures-pdf/Data-and-Models.pdf	/assets/lectures/Data-and-Models.pdf
 /lectures-ppt/Data-and-Models.ppt	/assets/lectures/Data-and-Models.ppt
+
+# Redirects from 404s
+/assets  /
+/assets/tutorials  /
